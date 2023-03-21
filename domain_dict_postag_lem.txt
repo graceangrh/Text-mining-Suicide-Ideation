@@ -1,0 +1,2276 @@
+pessimistic_JJ character_NN
+suicide_NN relative_JJ
+family_NN history_NN suicide_NN
+suicide_NN close_JJ relative_JJ
+suicide_NN risk_NN assessment_NN
+risk_NN suicide_NN
+adjustment_NN disorder_NN
+depressed_JJ mood_NN
+disturbance_NN emotion_NNS
+disturbance_NN conduct_NN
+poor_JJ grade_NNS
+bad_JJ grade_NNS
+failing_VBG grade_NNS
+fired_VBN work_NN
+academic_JJ inhibition_NN
+physical_JJ complaint_NNS
+work_NN inhibition_NN
+work_NN complaint_NNS
+hate_VB job_NN
+hate_NN school_NN
+anxious_JJ mood_NN
+communication_NN disorder_NN
+depressive_JJ adjustment_NN reaction_NN
+antisocial_JJ behavior_NN
+antisocial_JJ disorder_NN
+insomnia_NN
+embarrassed_JJ
+caucasian_JJ
+white_JJ
+native_JJ american_JJ
+first_JJ nation_NNS
+alcoholism_NN
+drug_NN abuse_NN
+bulimia_NN
+bulimia_NN nervosa_NN
+purging_VBG
+binge_NN purge_NN
+eating_VBG disorder_NN
+history_NN bulimia_NN nervosa_NN
+bulimia_NN nervosa_NN remission_NN
+sexually_RB provocative_JJ behavior_NN
+provocative_JJ behavior_NN
+divorce_NN
+divorced_JJ parent_NNS
+divorced_JJ parent_NNS sharing_VBG house_NN
+anorexia_NN nervosa_NN
+anorexia_NN nervosa_NN binge_NN -_HYPH eating_VBG purging_NN type_NN
+anorexia_NN
+loss_NN appetite_NN
+mood_NN anorexia_NNP
+hypertrichosis_NN
+acute_JJ nervous_JJ system_NN disorder_NN
+disorder_NN autonomic_JJ nervous_JJ system_NN
+disorder_NN peripheral_JJ nervous_JJ system_NN
+disorder_NN parasympathetic_JJ nervous_JJ system_NN
+disorder_NN sympathetic_JJ nervous_JJ system_NN
+central_JJ nervous_JJ system_NN disorder_NN water_NN regulation_NN
+disorder_NN peripheral_JJ autonomic_JJ nervous_JJ system_NN
+inherited_VBN metabolic_JJ disorder_NN nervous_JJ system_NN
+chronic_JJ nervous_JJ system_NN disorder_NN
+infectious_JJ disorder_NN peripheral_JJ nervous_JJ system_NN
+hereditary_JJ disorder_NN nervous_JJ system_NN
+slow_JJ viral_JJ central_JJ nervous_JJ system_NN infection_NN
+chaga_NNS '_POS disease_NN nervous_JJ system_NN involvement_NN
+cysticercosis_NN central_JJ nervous_JJ system_NN
+late_JJ effect_NNS central_JJ nervous_JJ system_NN tuberculosis_NN
+malignant_JJ neoplasm_NN peripheral_JJ nerve_NNS autonomic_JJ nervous_JJ system_NN
+phlebitis_NN central_JJ nervous_JJ system_NN venous_JJ sinus_NNS
+thrombophlebitis_NNS central_JJ nervous_JJ system_NN venous_JJ sinus_NNS
+nervous_JJ system_NN complication_NN surgically_RB implanted_VBN device_NN
+hereditary_JJ degenerative_JJ disease_NN central_JJ nervous_JJ system_NN
+inflammatory_JJ disease_NN central_JJ nervous_JJ system_NN
+disease_NN nervous_JJ system_NN complicating_VBG pregnancy_NN
+childbirth_NN puerperium_NN
+fetus_NN central_JJ nervous_JJ system_NN malformation_NN
+obstetric_JJ anesthesia_NN central_JJ nervous_JJ system_NN complication_NNS
+tuberculosis_NN central_JJ nervous_JJ system_NN
+late_JJ effect_NN nervous_JJ system_NN injury_NN
+central_JJ nervous_JJ system_NN muscle_NN -_HYPH tone_NN depressant_NN poisoning_NN
+central_JJ nervous_JJ system_NN complication_NNS care_NN
+accidental_JJ poisoning_NN caused_VBN central_JJ nervous_JJ system_NN stimulant_NNS
+overlapping_VBG malignant_JJ neoplasm_NN brain_NN part_NNS central_JJ nervous_JJ system_NN
+neoplasm_NN uncertain_JJ behavior_NN peripheral_JJ nerve_NNS peripheral_JJ autonomic_JJ nervous_JJ system_NN
+primary_JJ malignant_JJ neoplasm_NN peripheral_JJ nerve_NNS peripheral_JJ autonomic_JJ nervous_JJ system_NN
+overlapping_VBG malignant_JJ neoplasm_NN peripheral_JJ nerve_NNS autonomic_JJ nervous_JJ system_NN
+system_NN disorder_NN nervous_JJ system_NN
+chronic_JJ inflammatory_JJ demyelinating_NN polyradiculoneuropathy_NN central_JJ nervous_JJ system_NN demyelination_NN
+isolated_VBN angiitis_NN central_JJ nervous_JJ system_NN
+granulomatous_JJ angiitis_NN central_JJ nervous_JJ system_NN
+congenital_JJ developmental_JJ anomaly_NNS nervous_JJ system_NN
+late_RB secondary_JJ abnormality_NNS central_JJ nervous_JJ system_NN
+tumor_NN -_HYPH like_JJ lesion_NN nervous_JJ system_NN
+central_JJ nervous_JJ system_NN candidiasis_NN
+mechanical_JJ complication_NN nervous_JJ system_NN device_NN
+herpes_NN zoster_NN nervous_JJ system_NN complication_NN
+rubella_NN infection_NN central_JJ nervous_JJ system_NN
+early_RB secondary_JJ malformation_NN central_JJ nervous_JJ system_NN
+vascular_JJ malformation_NN nervous_JJ system_NN
+metastasis_NN nervous_JJ system_NN eye_NN
+fetus_NN central_JJ nervous_JJ system_NN malformation_NN
+nervous_JJ system_NN sense_NN organ_NN disease_NNS
+central_JJ nervous_JJ system_NN depressant_NNS anesthetic_JJ agent_NN poisoning_NN
+neoplasm_NN uncertain_JJ behavior_NN endocrine_JJ gland_NNS nervous_JJ system_NN
+disorder_NNS prosthesis_NNS implant_NNS nervous_JJ system_NN
+cyst_NN central_JJ nervous_JJ system_NN
+combined_VBN malformation_NN central_JJ nervous_JJ system_NN skeletal_JJ muscle_NN
+burn_VB nervous_JJ system_NN structure_NN
+congenital_JJ anomaly_NN nervous_JJ system_NN head_NN neck_NN
+drug_NN group_NNS primarily_RB affecting_VBG central_JJ nervous_JJ system_NN adverse_JJ reaction_NN
+central_JJ nervous_JJ system_NN depressant_NNS anesthetic_JJ overdose_NN
+overdose_NN drug_NN group_NNS primarily_RB affecting_VBG central_JJ nervous_JJ system_NN
+central_JJ nervous_JJ system_NN stimulant_NN overdose_NN ._. autonomic_JJ nervous_JJ system_NN drug_NN overdose_NN
+viral_JJ infection_NN central_JJ nervous_JJ system_NN
+disorder_NN nervous_JJ system_NN
+bacterial_JJ infection_NN nervous_JJ system_NN
+abscess_NN nervous_JJ system_NN
+maternal_JJ care_NN suspected_VBN central_JJ nervous_JJ system_NN malformation_NN fetus_NN
+maternal_JJ care_NN central_JJ nervous_JJ system_NN malformation_NN fetus_NN
+neoplasm_NN nervous_JJ system_NN
+neoplasm_NN central_JJ nervous_JJ system_NN
+infectious_JJ disease_NN nervous_JJ system_NN
+infectious_JJ disease_NN central_JJ nervous_JJ system_NN
+bacterial_JJ infection_NN central_JJ nervous_JJ system_NN
+fungal_JJ infection_NN central_JJ nervous_JJ system_NN
+congenital_JJ anomaly_NN central_JJ nervous_JJ system_NN
+injury_NN central_JJ nervous_JJ system_NN
+injury_NN nervous_JJ system_NN
+central_JJ nervous_JJ system_NN malformation_NN fetus_NN affecting_VBG obstetrical_JJ care_NN
+mechanical_JJ complication_NN nervous_JJ system_NN device_NN
+implant_VBP graft_NN
+syphilitic_JJ gumma_NN central_JJ nervous_JJ system_NN
+congenital_JJ anomaly_NN peripheral_JJ nervous_JJ system_NN
+disorder_NN central_JJ nervous_JJ system_NN
+obstetrical_JJ central_JJ nervous_JJ system_NN complication_NN anesthesia_NN sedation_NN
+congenital_JJ ischemic_JJ atrophy_NN central_JJ nervous_JJ system_NN structure_NN
+poisoning_NN caused_VBN autonomous_JJ nervous_JJ system_NN drug_NN
+central_JJ nervous_JJ system_NN dysfunction_NN newborn_JJ
+inflammatory_JJ disease_NN central_JJ nervous_JJ system_NN
+non-arthropod-borne_JJ viral_JJ disease_NN central_JJ nervous_JJ system_NN
+demyelinating_VBG disease_NN central_JJ nervous_JJ system_NN
+poisoning_NN caused_VBN central_JJ nervous_JJ system_NN stimulant_NN
+spongy_JJ degeneration_NN central_JJ nervous_JJ system_NN
+degenerative_JJ disease_NN central_JJ nervous_JJ system_NN
+central_JJ nervous_JJ system_NN complication_NN
+congenital_JJ anomaly_NN nervous_JJ system_NN
+benign_JJ neoplasm_NN central_JJ nervous_JJ system_NN
+benign_JJ neoplasm_NN nervous_JJ system_NN disorder_NN
+primary_JJ malignant_JJ neoplasm_NN central_JJ nervous_JJ system_NN
+primary_JJ malignant_JJ neoplasm_NN nervous_JJ system_NN
+secondary_JJ malignant_JJ neoplasm_NN central_JJ nervous_JJ system_NN
+secondary_JJ malignant_JJ neoplasm_NN nervous_JJ system_NN
+neoplasm_NN uncertain_JJ behavior_NN central_JJ nervous_JJ system_NN
+congenital_JJ degeneration_NN nervous_JJ system_NN
+malignant_JJ neoplasm_NN central_JJ nervous_JJ system_NN
+malignant_JJ neoplasm_NN nervous_JJ system_NN
+drug_NN group_NNS primarily_RB affecting_VBG autonomic_JJ nervous_JJ system_NN adverse_JJ reaction_NN
+hypermelanosis_NN due_IN nervous_JJ system_NN disorder_NN
+adverse_JJ reaction_NN caused_VBN central_JJ nervous_JJ system_NN muscle_NN -_HYPH tone_NN depressant_NNS
+amebic_JJ infection_NN central_JJ nervous_JJ system_NN
+blastomyces_NNS infection_NN central_JJ nervous_JJ system_NN
+borrelia_NN infection_NN central_JJ nervous_JJ system_NN
+brucella_NN infection_NN central_JJ nervous_JJ system_NN
+chlamydial_JJ infection_NN central_JJ nervous_JJ system_NN
+coccidioides_NNS infection_NN central_JJ nervous_JJ system_NN
+coxsackievirus_NN infection_NN central_JJ nervous_JJ system_NN
+cryptococcus_NN infection_NN central_JJ nervous_JJ system_NN
+cytomegalovirus_NN infection_NN central_JJ nervous_JJ system_NN
+echovirus_JJ infection_NN central_JJ nervous_JJ system_NN
+ehrlichia_NN infection_NN central_JJ nervous_JJ system_NN
+enterovirus_NN infection_NN central_JJ nervous_JJ system_NN
+epstein_NNP barr_NNP virus_NN infection_NN central_JJ nervous_JJ system_NN
+escherichia_FW coli_FW infection_NN central_JJ nervous_JJ system_NN
+gonococcal_JJ infection_NN central_JJ nervous_JJ system_NN
+haemophilus_JJ infection_NN central_JJ nervous_JJ system_NN
+herpes_NN virus_NN infection_NN central_JJ nervous_JJ system_NN
+histoplasma_NN infection_NN central_JJ nervous_JJ system_NN
+influenza_NN central_JJ nervous_JJ system_NN
+leptospira_NN infection_NN central_JJ nervous_JJ system_NN
+listeria_NN infection_NN central_JJ nervous_JJ system_NN
+measles_NNS central_JJ nervous_JJ system_NN
+mycobacterial_JJ infection_NN central_JJ nervous_JJ system_NN
+naegleria_NN infection_NN central_JJ nervous_JJ system_NN
+parasitic_JJ infection_NN central_JJ nervous_JJ system_NN
+parvovirus_NN infection_NN central_JJ nervous_JJ system_NN
+streptococcus_NNP infection_NN central_JJ nervous_JJ system_NN
+toxicariasis_NN central_JJ nervous_JJ system_NN
+hereditary_JJ /_HYPH degenerative_JJ disease_NN central_JJ nervous_JJ system_NN
+neurologic_JJ xeroderma_NN pigmentosum_NN
+family_NN history_NN neurological_JJ disorder_NN
+history_NN central_JJ nervous_JJ system_NN disorder_NN
+poisoning_NN caused_VBN central_JJ nervous_JJ system_NN drug_NN
+accidental_JJ poisoning_NN caused_VBN central_JJ nervous_JJ system_NN drug_NN
+drug_NN -_HYPH induced_VBN central_JJ nervous_JJ system_NN depression_NN
+central_JJ nervous_JJ system_NN depression_NN
+central_JJ nervous_JJ system_NN demyelinating_NN disease_NN associated_VBN acquired_VBN immunodeficiency_NN syndrome_NN
+disorder_NN nervous_JJ system_NN caused_VBN west_NN nile_NNP virus_NN
+family_NN history_NN disorder_NN peripheral_JJ nervous_JJ system_NN
+mechanical_JJ complication_NN central_JJ nervous_JJ system_NN device_NN
+diffuse_JJ non-hodgkin_NN 's_POS lymphoma_NN central_JJ nervous_JJ system_NN
+non-hodgkin_NN 's_POS lymphoma_NN central_JJ nervous_JJ system_NN
+follicular_JJ non-hodgkin_NN 's_POS lymphoma_NN central_JJ nervous_JJ system_NN
+family_NN history_NN central_JJ nervous_JJ system_NN disorder_NN
+complication_NN associated_VBN nervous_JJ system_NN implant_VBP
+mechanical_JJ complication_NN nervous_JJ system_NN implant_VBP
+electromyography_NN disorder_NN central_JJ nervous_JJ system_NN
+multisystem_JJ degeneration_NN autonomic_JJ nervous_JJ system_NN
+necrosis_NN central_JJ nervous_JJ system_NN caused_VBN exposure_NN ionizing_VBG radiation_NN
+functional_JJ disease_NN central_JJ nervous_JJ system_NN neuroendocrine_JJ disturbance_NN
+nystagmus_NN
+primary_JJ angiitis_NN central_JJ nervous_JJ system_NN
+obstetric_JJ anesthesia_NN central_JJ nervous_JJ system_NN complication_NN childbirth_NN
+anaplastic_JJ astrocytoma_NN central_JJ nervous_JJ system_NN
+glioblastoma_NN multiforme_NN central_JJ nervous_JJ system_NN
+malignant_JJ glioma_NN central_JJ nervous_JJ system_NN
+primary_JJ malignant_JJ astrocytoma_NN central_JJ nervous_JJ system_NN
+disorder_NN central_JJ nervous_JJ system_NN co-occurrent_NN due_JJ acute_JJ lymphoid_JJ leukemia_NN
+disorder_NN central_JJ nervous_JJ system_NN co-occurrent_NN due_JJ acute_JJ lymphoid_JJ leukemia_NN remission_NN
+non-hodgkin_JJ lymphoma_NN central_JJ nervous_JJ system_NN metastatic_JJ lymph_NN node_NN upper_JJ limb_NN
+disorder_NN peripheral_JJ nervous_JJ system_NN co-occurrent_NN human_JJ immunodeficiency_NN virus_NN infection_NN
+non-hodgkin_JJ lymphoma_NN central_JJ nervous_JJ system_NN metastatic_JJ lymph_NN node_NN lower_JJR limb_NN
+demyelinating_VBG disease_NN central_JJ nervous_JJ system_NN co-occurrent_NN human_JJ immunodeficiency_NN virus_NN infection_NN
+disorder_NN central_JJ nervous_JJ system_NN co-occurrent_NN human_JJ immunodeficiency_NN virus_NN infection_NN
+infection_NN central_JJ nervous_JJ system_NN caused_VBN borrelia_NN burgdorferi_NNS
+hallucinogen_NN mood_NN disorder_NN
+phencyclidine_NN mood_NN disorder_NN
+moderate_JJ mood_NN disorder_NN
+cocaine_NN -_HYPH induced_VBN mood_NN disorder_NN
+severe_JJ mixed_JJ bipolar_JJ disorder_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH incongruent_JJ
+severe_JJ bipolar_JJ disorder_NN
+single_JJ manic_JJ episode_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH congruent_JJ
+severe_JJ bipolar_JJ ii_CD disorder_NN
+recent_JJ episode_NN major_JJ depressive_JJ psychotic_JJ feature_NNS
+mood_NN -_HYPH congruent_JJ
+severe_JJ bipolar_JJ ii_CD disorder_NN
+recent_JJ episode_NN major_JJ depressive_JJ psychotic_JJ feature_NNS
+mood_NN -_HYPH incongruent_JJ
+mood_NN disorder_NN mixed_JJ feature_NNS due_IN general_JJ medical_JJ condition_NN
+organic_JJ mood_NN disorder_NN
+severe_JJ depressed_JJ bipolar_JJ disorder_NN psychotic_JJ feature_NNS
+severe_JJ mood_NN disorder_NN psychotic_JJ feature_NNS
+severe_JJ bipolar_JJ disorder_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH incongruent_JJ
+mood_NN disorder_NN manic_JJ feature_NNS due_IN general_JJ medical_JJ condition_NN
+sedative_NN
+hypnotic_JJ anxiolytic_JJ -_HYPH induced_VBN mood_NN disorder_NN
+opioid_JJ -_HYPH induced_VBN mood_NN disorder_NN
+severe_JJ manic_JJ bipolar_JJ disorder_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH incongruent_JJ
+mild_JJ mood_NN disorder_NN
+psychoactive_JJ substance_NN -_HYPH induced_VBN organic_JJ mood_NN disorder_NN
+mood_NN disorder_NN due_IN general_JJ medical_JJ condition_NN
+mood_NN disorder_NN full_JJ remission_NN
+organic_JJ mood_NN disorder_NN depressed_JJ type_NN
+amphetamine_NN -_HYPH induced_VBN mood_NN disorder_NN
+mood_NN disorder_NN
+adjustment_NN disorder_NN anxious_JJ mood_NN
+alcohol_NN -_HYPH induced_VBN mood_NN disorder_NN
+severe_JJ depressed_JJ bipolar_JJ disorder_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH congruent_JJ
+adjustment_NN disorder_NN depressed_JJ mood_NN
+organic_JJ mood_NN disorder_NN manic_JJ type_NN
+severe_JJ mood_NN disorder_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH congruent_JJ
+severe_JJ mixed_JJ bipolar_JJ disorder_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH congruent_JJ
+severe_JJ mood_NN disorder_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH incongruent_JJ
+severe_JJ bipolar_JJ disorder_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH congruent_JJ
+mood_NN disorder_NN partial_JJ remission_NN
+mood_NN disorder_NN depressive_JJ feature_NNS due_IN general_JJ medical_JJ condition_NN
+mood_NN disorder_NN major_JJ depressive_JJ -_HYPH like_JJ episode_NN due_IN general_JJ medical_JJ condition_NN
+severe_JJ manic_JJ bipolar_JJ disorder_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH congruent_JJ
+organic_JJ mood_NN disorder_NN mixed_JJ type_NN
+severe_JJ bipolar_JJ disorder_NN
+single_JJ manic_JJ episode_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH incongruent_JJ
+severe_JJ mood_NN disorder_NN without_IN psychotic_JJ feature_NNS
+inhalant_NN -_HYPH induced_VBN mood_NN disorder_NN
+severe_JJ recurrent_JJ major_JJ depression_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH incongruent_JJ
+severe_JJ major_JJ depression_NN
+single_JJ episode_NN
+psychotic_JJ feature_NNS
+mood_NN -_HYPH incongruent_JJ
+transitory_JJ postpartum_NN mood_NN disturbance_NN
+severe_JJ recurrent_JJ major_JJ depression_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH congruent_JJ
+severe_JJ major_JJ depression_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH congruent_JJ
+severe_JJ major_JJ depression_NN psychotic_JJ feature_NNS
+mood_NN -_HYPH incongruent_JJ
+severe_JJ major_JJ depression_NN
+single_JJ episode_NN
+psychotic_JJ feature_NNS
+mood_NN -_HYPH congruent_JJ
+history_NN mood_NN disorder_NN
+drug_NN -_HYPH induced_VBN mood_NN disorder_NN
+mood_NN disorder_NN manic_JJ type_NN
+depressive_JJ disorder_NN
+adjustment_NN disorder_NN anxious_JJ mood_NN remission_NN
+adjustment_NN disorder_NN depressed_JJ mood_NN remission_NN
+mood_NN disorder_NN depressed_JJ type_NN
+episodic_JJ mood_NN disorder_NN
+depressed_JJ mood_NN alzheimer_NN 's_POS disease_NN
+mood_NN anxiety_NN disorder_NN clinic_NN
+opioid_JJ -_HYPH induced_VBN mood_NN disorder_NN due_IN opioid_JJ dependence_NN
+opioid_JJ -_HYPH induced_VBN mood_NN disorder_NN due_IN opioid_JJ abuse_NN
+disruptive_JJ mood_NN dysregulation_NN disorder_NN
+bereavement_NN due_IN life_NN event_NN
+counseling_NN grieving_NN
+grief_NN finding_NN
+abnormal_JJ grief_NN reaction_NN life_NN event_NN
+working_VBG pain_NN grief_NN
+guilt_NN stage_NN grief_NN
+despair_NN stage_NN grief_NN
+anger_NN stage_NN grief_NN
+reflecting_VBG stage_NN grief_NN
+acceptance_NN stage_NN grief_NN
+bargaining_NN stage_NN grief_NN
+denial_NN stage_NN grief_NN
+finding_VBG relating_VBG grief_NN dying_VBG
+normal_JJ grief_NN reaction_NN life_NN event_NN
+anticipatory_JJ grief_NN
+grief_NN dying_VBG observables_NNS
+grief_NN characteristic_NNS
+grief_NN work_NN facilitation_NN perinatal_JJ death_NN
+grieving_NN support_NN
+grief_NN resolution_NN
+fails_VBZ recognize_VB stage_NNS grief_NN
+difficulty_NN coping_VBG grief_NN response_NNS
+conflicting_JJ stage_NNS grief_NN
+conflicting_JJ stage_NNS grief_NN among_IN family_NN member_NNS
+dysfunctional_JJ grieving_NN
+risk_NN dysfunctional_JJ family_NN grieving_NN
+disenfranchised_VBN grief_NN
+bisexual_JJ
+homosexual_NN
+asexual_JJ
+queer_NN
+trans_NN
+transgender_NN
+transexual_JJ
+tranny_NN
+faggot_NN
+dyke_NN
+gay_JJ
+lesbian_JJ
+lgbt_NN
+lgbtq_NN
+lgbtqa_NNP
+intersex_NN
+pansexual_JJ
+butch_NNP
+femme_NNP
+hermaphrodite_NN
+hermaphrodism_NN
+hormone_NN therapy_NN
+alcohol_NN abuse_NN
+maternal_JJ alcohol_NN abuse_NN
+nondependent_JJ alcohol_NN abuse_NN
+continuous_JJ
+nondependent_JJ alcohol_NN abuse_NN
+episodic_JJ
+nondependent_JJ alcohol_NN abuse_NN remission_NN
+nondependent_JJ alcohol_NN abuse_NN
+persistent_JJ alcohol_NN abuse_NN
+history_NN alcohol_NN abuse_NN
+alcohol_NN abuse_NN prevention_NN
+alcohol_NN abuse_NN prevention_NN assessment_NN
+alcohol_NN abuse_NN prevention_NN education_NN
+alcohol_NN abuse_NN prevention_NN management_NN
+suspected_VBN alcohol_NN abuse_NN
+denies_VBZ alcohol_NN abuse_NN
+alcohol_NN abuse_NN cessation_NN behavior_NN
+facilitation_NN alcohol_NN abuse_NN recovery_NN
+screening_NN alcohol_NN abuse_NN
+disorder_NN due_IN alcohol_NN abuse_NN
+social_JJ context_NN
+social_JJ context_NN finding_NN
+significant_JJ social_JJ history_NN
+antenatal_JJ care_NN social_JJ risk_NN
+social_JJ service_NNS help_VBP refused_VBN
+family_NN social_JJ history_NN
+counseled_VBN social_JJ worker_NN
+adenylosuccinate_JJ lyase_NN deficiency_NN
+autistic_JJ thinking_NN
+autistic_JJ disorder_NN childhood_NN onset_NN
+active_JJ infantile_JJ autism_NN
+residual_JJ infantile_JJ autism_NN
+atypical_JJ autism_NN
+suspected_VBN autism_NN
+infantile_JJ autism_NN
+family_NN history_NN autism_NN
+autistic_JJ disorder_NN
+akinetic_JJ mutism_NN
+active_JJ odd_JJ autism_NN
+checklist_NN autism_NN toddler_NNS score_NN
+assessment_NN using_VBG checklist_NN autism_NN toddler_NNS
+modified_VBN checklist_NN autism_NN toddler_NNS
+checklist_NN autism_NN toddler_NNS
+modified_VBN checklist_NN autism_NN toddler_NNS score_NN
+assessment_NN using_VBG modified_VBN checklist_NN autism_NN toddler_NNS
+family_NN history_NN autism_NN sibling_NN
+high_RB -_HYPH functioning_VBG autism_NN
+autism_NN clinic_NN
+pervasive_JJ developmental_JJ disorder_NN
+anxiety_NN disorder_NN
+sedative_NN
+hypnotic_JJ anxiolytic_JJ -_HYPH induced_VBN anxiety_NN disorder_NN
+separation_NN anxiety_NN disorder_NN childhood_NN
+hallucinogen_NN -_HYPH induced_VBN anxiety_NN disorder_NN
+organic_JJ anxiety_NN disorder_NN
+inhalant_NN -_HYPH induced_VBN anxiety_NN disorder_NN
+generalized_VBN anxiety_NN disorder_NN
+social_JJ phobia_NN
+alcohol_NN -_HYPH induced_VBN anxiety_NN disorder_NN
+anxiety_NN disorder_NN adolescence_NN
+cannabis_NN -_HYPH induced_VBN anxiety_NN disorder_NN
+psychoactive_JJ substance_NN -_HYPH induced_VBN organic_JJ anxiety_NN disorder_NN
+cocaine_NN -_HYPH induced_VBN anxiety_NN disorder_NN
+anxiety_NN disorder_NN due_IN general_JJ medical_JJ condition_NN
+anxiety_NN disorder_NN childhood_NN
+phencyclidine_NN -_HYPH induced_VBN anxiety_NN disorder_NN
+caffeine_NN -_HYPH induced_VBN anxiety_NN disorder_NN
+amphetamine_NN -_HYPH induced_VBN anxiety_NN disorder_NN
+separation_NN anxiety_NN disorder_NN childhood_NN
+early_JJ onset_NN
+dream_NN anxiety_NN disorder_NN
+family_NN history_NN :_: anxiety_NN state_NN
+childhood_NN phobic_JJ anxiety_NN disorder_NN
+anxiety_NN disorder_NN
+mixed_JJ anxiety_NN depressive_JJ disorder_NN
+disturbance_NN anxiety_NN fearfulness_NN childhood_NN adolescence_NN
+separation_NN anxiety_NN
+anxiety_NN hyperventilation_NN
+panic_NN disorder_NN
+avoidant_JJ disorder_NN childhood_NN
+phobic_JJ disorder_NN
+generalized_VBN anxiety_NN disorder_NN 7_CD item_NN score_NN
+assessment_NN using_VBG generalized_VBN anxiety_NN disorder_NN 7_CD item_NN score_NN
+anxiety_NN disorder_NN mother_NN complicating_VBG childbirth_NN
+mood_NN anxiety_NN disorder_NN clinic_NN
+adjustment_NN disorder_NN anxious_JJ mood_NN
+generalized_VBN anxiety_NN disorder_NN 7_CD item_NN scale_NN
+assessment_NN using_VBG generalized_VBN anxiety_NN disorder_NN 7_CD item_NN scale_NN declined_VBD
+sexual_JJ frustration_NN
+feeling_VBG frustrated_JJ
+tends_VBZ intolerant_JJ frustration_NN
+gender_NN identity_NN disorder_NN adolescence_NN
+previously_RB asexual_JJ
+gender_NN identity_NN disorder_NN childhood_NN
+gender_NN identity_NN disorder_NN adulthood_NN
+previously_RB heterosexual_JJ
+gender_NN identity_NN disorder_NN adulthood_NN
+gender_NN identity_NN disorder_NN adolescence_NN
+previously_RB homosexual_JJ
+gender_NN identity_NN disorder_NN adulthood_NN
+previously_RB asexual_JJ
+adult_JJ gender_NN identity_NN disorder_NN
+sexually_RB attracted_VBN female_NNS
+gender_NN identity_NN disorder_NN adolescence_NN
+adult_JJ gender_NN identity_NN disorder_NN
+sexually_RB attracted_VBN male_NNS
+adult_JJ gender_NN identity_NN disorder_NN
+sexually_RB attracted_VBN neither_CC sex_NN
+adult_JJ gender_NN identity_NN disorder_NN
+sexually_RB attracted_VBN sex_NNS
+gender_NN identity_NN disorder_NN adolescence_NN
+previously_RB heterosexual_JJ
+gender_NN identity_NN disorder_NN adulthood_NN
+previously_RB homosexual_JJ
+gender_NN identity_NN disorder_NN
+obsessive_JJ compulsive_JJ personality_NN disorder_NN
+obsessive_JJ -_HYPH compulsive_JJ disorder_NN
+compulsive_JJ neurosis_NN
+obsessional_JJ neurosis_NN
+psychogenic_JJ rumination_NN
+compulsive_JJ personality_NN disorder_NN
+obsessional_JJ personality_NN disorder_NN
+acute_JJ skin_NN disorder_NN
+vascular_JJ disease_NN skin_NN
+disorder_NN skin_NN pigmentation_NN
+disorder_NN skin_NN
+skin_NN disorder_NN due_IN physical_JJ agent_NN foreign_JJ substance_NN
+history_NN skin_NN disorder_NN
+skin_NN disorder_NN monitoring_NN
+skin_NN peeling_VBG disorder_NN
+granulomatous_JJ disorder_NN skin_NN subcutaneous_JJ tissue_NN
+disorder_NN skin_NN appendage_NN
+disorder_NN lymphatics_NNS affecting_VBG skin_NN
+fibrotic_JJ disorder_NN skin_NN
+site_NN -_HYPH specific_JJ disorder_NN skin_NN
+skin_NN mucous_JJ membrane_NN disorder_NN mouth_NN
+lip_NNS tongue_NN
+skin_NN disorder_NN breast_NN
+skin_NN disorder_NN umbilicus_NN
+skin_NN graft_NN disorder_NN
+disorder_NN skin_NN donor_NN site_NN
+skin_NN disorder_NN monitoring_NN status_NN
+disorder_NN thinning_NN skin_NN
+acquired_VBN disorder_NN skin_NN color_NN
+histologic_JJ type_NN inflammatory_JJ skin_NN disorder_NN
+disorder_NN skin_NN subcutaneous_JJ tissue_NN
+dermatoglyphs_NNS skin_NN line_NNS
+herpesviral_JJ infection_NN perianal_JJ skin_NN rectum_NN
+secondary_JJ syphilis_NN skin_NN mucous_JJ membrane_NN
+candidiasis_NN skin_NN nail_NNS
+malignant_JJ neoplasm_NN
+secondary_JJ malignant_JJ neoplasm_NN
+lipoma_NN skin_NN subcutaneous_JJ tissue_NN
+benign_JJ neoplasm_NN skin_NN auricle_NN
+benign_JJ neoplasm_NN skin_NN external_JJ auditory_JJ meatus_NN
+benign_JJ neoplasm_NN
+skin_NN tag_NN vagina_NN
+benign_JJ tumor_NN scrotal_JJ skin_NN
+carcinoma_NN
+contusion_NN intact_JJ skin_NN
+psychogenic_JJ skin_NN symptom_NNS
+tumor_NN -_HYPH like_JJ lesion_NN skin_NN
+anal_JJ skin_NN tag_NN
+rectal_JJ skin_NN tag_NN
+disease_NN skin_NN subcutaneous_JJ tissue_NN complicating_VBG pregnancy_NN
+childbirth_NN puerperium_NN
+congenital_JJ anomaly_NN skin_NN
+allergic_JJ contact_NN dermatitis_NN caused_VBN drug_NN contact_NN skin_NN
+allergic_JJ contact_NN dermatitis_NN caused_VBN food_NN contact_NN skin_NN
+irritant_JJ contact_NN dermatitis_NN caused_VBN drug_NN contact_NN skin_NN
+irritant_JJ contact_NN dermatitis_NN caused_VBN food_NN contact_NN skin_NN
+skin_NN change_NNS caused_VBN chronic_JJ exposure_NN non-ionizing_JJ radiation_NN
+generalized_VBN skin_NN eruption_NN caused_VBN drug_NN medicament_NN
+localized_JJ skin_NN eruption_NN caused_VBN drug_NN medicament_NN
+staphylococcal_JJ scalded_VBN skin_NN syndrome_NN
+skin_NN stria_NNS
+senile_RB degenerative_JJ atrophy_NN skin_NN
+atrophic_JJ spot_NNS skin_NN
+skin_NN tag_NN
+redundant_JJ skin_NN
+follicular_JJ cyst_NNS skin_NN subcutaneous_JJ tissue_NN
+scar_NN condition_NNS fibrosis_NN skin_NN
+amyloidosis_NN skin_NN
+pigmented_JJ skin_NN lesion_NN
+congenital_JJ pigmentary_JJ skin_NN anomaly_NNS
+perinatal_JJ skin_NN temperature_NN regulation_NN disorder_NNS
+neonatal_JJ skin_NN infection_NN
+foreign_JJ body_NN skin_NN wound_NN
+skin_NN graft_NN failure_NN
+infection_NN skin_NN
+accidental_JJ poisoning_NN caused_VBN drug_NNS primarily_RB affecting_VBG skin_NN
+mucous_JJ membrane_NN
+ophthalmological_JJ
+otorhinolaryngological_JJ dental_JJ drug_NNS
+accidental_JJ poisoning_NN caused_VBN skin_NN drug_NN
+overlapping_VBG malignant_JJ neoplasm_NN skin_NN
+melanoma_NN situ_FW skin_NN
+overlapping_VBG malignant_JJ melanoma_NN skin_NN
+melanoma_NN situ_FW non-skin_JJ site_NN
+melanocytic_JJ nevus_NN skin_NN breast_NN
+melanoma_NN situ_FW skin_NN breast_NN
+melanocytic_JJ nevus_NN perianal_JJ skin_NN
+melanoma_NN situ_FW perianal_JJ skin_NN
+lipoma_NN skin_NN subcutaneous_JJ tissue_NN trunk_NN
+lipoma_NN skin_NN subcutaneous_JJ tissue_NN limb_NNS
+kaposi_NNP 's_POS sarcoma_NN skin_NN
+sarcoid_JJ skin_NN eyelid_NN
+rosacea_NN skin_NN eyelid_NN
+lymphangioleiomyomatosis_NN skin_NN
+marfan_NN 's_POS syndrome_NN affecting_VBG skin_NN
+peristomal_JJ skin_NN complication_NN
+ureteric_JJ fistula_NN skin_NN
+prostatic_JJ fistula_NN skin_NN
+urethral_JJ fistula_NN skin_NN
+drug_NN induced_VBN abnormal_JJ pigmentation_NN skin_NN
+pox_NN virus_NN infection_NN skin_NN
+abscess_NN skin_NN area_NN excluding_VBG digit_NNS hand_NN foot_NN
+cellulitis_NN skin_NN area_NN excluding_VBG digit_NNS hand_NN foot_NN
+acute_JJ lymphangitis_NN skin_NN excluding_VBG digit_NNS hand_NN foot_NN
+site_NN -_HYPH specific_JJ pyogenic_JJ infection_NN skin_NN subcutis_NN
+non-pyogenic_JJ bacterial_JJ infection_NN skin_NN
+fusobacterium_NN infection_NN skin_NN
+arcanobacterium_NN pyogenes_NNS infection_NN skin_NN
+moraxella_NN infection_NN skin_NN
+scytalidium_NN hyalinum_NN infection_NN skin_NN
+systemic_JJ mycosis_NN affecting_VBG skin_NN
+systemic_JJ fungal_JJ infection_NN affecting_VBG skin_NN
+nematode_NN infestation_NN skin_NN
+amebiasis_NN skin_NN
+protozoal_JJ infestation_NN skin_NN
+chafing_NN skin_NN
+plaster_NN paris_NNP injury_NN skin_NN
+skin_NN reaction_NN caused_VBN suture_NN material_NN
+ultraviolet_JJ -_HYPH induced_VBN change_NN normal_JJ skin_NN
+traumatic_JJ skin_NN change_NNS
+papular_JJ
+squamous_JJ granulomatous_JJ eruption_NNS skin_NN
+acute_JJ skin_NN sarcoidosis_NN
+chronic_JJ skin_NN sarcoidosis_NN
+localized_VBN abdominal_JJ wall_NN skin_NN atrophy_NN
+collagen_NN elastic_JJ tissue_NN disorder_NNS affecting_VBG skin_NN
+progressive_JJ nodular_JJ fibrosis_NN skin_NN
+wrinkly_JJ skin_NN syndrome_NN
+metabolic_JJ nutritional_JJ disorder_NNS affecting_VBG skin_NN
+idiopathic_JJ calcification_NN skin_NN
+psychogenic_JJ sensory_JJ disturbance_NN skin_NN
+systemic_JJ disease_NNS affecting_VBG skin_NN
+diabetic_JJ thick_JJ skin_NN syndrome_NN
+malformation_NN hamartoma_NN skin_NN appendage_NN
+congenital_JJ absence_NN skin_NN scalp_NN
+congenital_JJ absence_NN skin_NN scalp_NN epidermal_JJ nevus_NN
+disorder_NNS skin_NN graft_NNS flap_NNS
+skin_NN graft_NN loss_NN
+skin_NN graft_NN hematoma_NN
+skin_NN graft_NN seroma_NN
+skin_NN graft_NN put_VBD upside_RB -_HYPH
+skin_NN graft_NN displaced_VBN
+skin_NN graft_NN infection_NN
+non-healing_NN skin_NN donor_NN site_NN
+infection_NN skin_NN donor_NN site_NN
+hypertrophic_JJ scarring_NN skin_NN donor_NN site_NN
+dressing_VBG included_VBN healing_NN process_NN skin_NN donor_NN site_NN
+delayed_VBN healing_NN skin_NN donor_NN site_NN
+chronic_JJ trophic_JJ ulcer_NN skin_NN
+lepromatous_JJ skin_NN complication_NNS
+skin_NN soft_JJ tissue_NN atypical_JJ mycobacterial_JJ infection_NN
+gas_NN gangrene_NN skin_NN
+herpes_NN simplex_NN infection_NN skin_NN
+amebic_JJ abscess_NN skin_NN
+phaeohyphomycosis_NN skin_NN
+woody_JJ induration_NN skin_NN subcutis_NN
+broken_JJ skin_NN
+cavity_NN skin_NN
+excoriation_NN skin_NN
+skin_NN punctum_NN
+sore_JJ skin_NN
+blister_NNS beneath_IN skin_NN
+dilated_VBN blood_NN vessel_NNS skin_NN
+sun_NN -_HYPH damaged_VBN skin_NN face_NN
+excess_JJ skin_NN muscle_NN eyelid_NN
+aplasia_NN skin_NN
+squamous_JJ cell_NN carcinoma_NN skin_NN
+clear_JJ cell_NN squamous_JJ cell_NN carcinoma_NN skin_NN
+spindle_NN cell_NN squamous_JJ carcinoma_NN skin_NN
+acantholytic_JJ squamous_JJ cell_NN carcinoma_NN skin_NN
+squamous_JJ cell_NN carcinoma_NN situ_FW skin_NN
+squamous_JJ cell_NN papilloma_NN skin_NN
+benign_JJ tumor_NN skin_NN pilar_JJ differentiation_NN
+basal_JJ cell_NN carcinoma_NN skin_NN
+basosquamous_JJ carcinoma_NN skin_NN
+malignant_JJ skin_NN tumor_NN eccrine_NN differentiation_NN
+mucoepidermoid_JJ carcinoma_NN skin_NN
+benign_JJ skin_NN tumor_NN eccrine_NN differentiation_NN
+tumor_NN skin_NN apocrine_NN differentiation_NN
+benign_JJ skin_NN tumor_NN apocrine_NN differentiation_NN
+malignant_JJ skin_NN tumor_NN apocrine_NN differentiation_NN
+extramammary_JJ paget_NN 's_POS disease_NN skin_NN
+apudoma_NN skin_NN
+superficial_JJ spreading_VBG malignant_JJ melanoma_NN skin_NN
+nodular_JJ malignant_JJ melanoma_NN skin_NN
+acral_JJ lentiginous_JJ malignant_JJ melanoma_NN skin_NN
+fibrous_JJ tissue_NN neoplasm_NN skin_NN
+elastofibroma_NN skin_NN
+desmoid_JJ fibromatosis_NN skin_NN
+fibrous_JJ histiocytoma_NN skin_NN
+atypical_JJ fibroxanthoma_NN skin_NN
+verruciform_JJ xanthoma_NN skin_NN
+skin_NN tumor_NN neuralorigin_NN
+granular_JJ cell_NN tumor_NN skin_NN
+skin_NN tumor_NN smooth_JJ muscleorigin_NN
+ganglioneuroma_NN skin_NN
+multiple_JJ angiomatous_JJ nevus_NN skin_NN
+arteriovenous_JJ malformation_NN skin_NN
+tufted_VBN angioma_NN skin_NN
+verrucous_JJ hemangioma_NN skin_NN
+angiokeratoma_NN skin_NN
+cavernous_JJ lymphangioma_NN skin_NN
+angiosarcoma_NN skin_NN
+glomus_NN tumor_NN skin_NN
+hemangiopericytoma_NN skin_NN
+malignant_JJ hemangiopericytoma_NN skin_NN
+hemangioendothelioma_NN skin_NN
+epithelioid_JJ cell_NN sarcoma_NN skin_NN
+junctional_JJ melanocytic_JJ nevus_NN skin_NN
+compound_NN nevus_NN skin_NN
+blue_JJ nevus_NN skin_NN
+common_JJ blue_JJ nevus_NN skin_NN
+cellular_JJ blue_JJ nevus_NN skin_NN
+balloon_NN cell_NN nevus_NN skin_NN
+congenital_JJ giant_NN pigmented_VBN nevus_NN skin_NN
+dysplastic_JJ nevus_NN skin_NN
+tumor_NN skin_NN penis_NN
+malignant_JJ tumor_NN skin_NN penis_NN
+carcinoma_NN
+papilloma_NN skin_NN
+benign_JJ tumor_NN skin_NN sebaceous_JJ differentiation_NN
+lipoma_NN skin_NN
+angiomyoma_NN skin_NN
+mercury_NN pigmentation_NN skin_NN
+dry_JJ skin_NN dermatitis_NN
+wound_NN skin_NN
+splinter_NN skin_NN
+late_JJ effect_NN skin_NN subcutaneous_JJ tissue_NN injury_NN
+eye_NN
+otorhinolaryngological_JJ
+skin_NN dental_JJ drug_NN poisoning_NN
+tuberculosis_NN skin_NN subcutaneous_JJ tissue_NN
+malignant_JJ neoplasm_NN bone_NN
+connective_JJ tissue_NN
+skin_NN breast_NN
+benign_JJ neoplasm_NN skin_NN ear_NN external_JJ auditory_JJ meatus_NN
+hemangioma_NN skin_NN subcutaneous_JJ tissue_NN
+burrow_VBZ skin_NN
+skin_NN sinus_NN
+laceration_NN skin_NN
+self_NN -_HYPH inflicted_VBN skin_NN lesion_NNS
+superficial_JJ bacterial_JJ infection_NN skin_NN
+skin_NN plaque_NN
+benign_JJ tumor_NN skin_NN penis_NN
+skin_NN mark_NN
+perinatal_JJ skin_NN subcutaneous_JJ infection_NNS
+phototherapy_NN skin_NN rash_NN
+melanocytic_JJ tumor_NN skin_NN
+cystic_JJ dermoid_JJ choristoma_NN skin_NN
+primary_JJ signet_NN ring_NN carcinoma_NN skin_NN
+tumor_NN skin_NN pilar_JJ differentiation_NN
+malignant_JJ tumor_NN skin_NN pilar_JJ differentiation_NN
+amelanotic_JJ malignant_JJ melanoma_NN skin_NN
+granulomatous_JJ slack_NN skin_NN disease_NN
+arborescent_JJ patterning_NN skin_NN
+larva_NN migrans_NNS skin_NN
+amebic_JJ granuloma_NN skin_NN
+site_NN -_HYPH specific_JJ infective_JJ disorder_NNS skin_NN
+hematoma_NN skin_NN
+puncture_NN wound_NN skin_NN
+metal_NN nail_NN puncture_NN wound_NN skin_NN
+burn_VB skin_NN
+cyst_NN skin_NN
+spot_NNS skin_NN
+squamous_JJ cell_NN carcinoma_NN skin_NN upper_JJ lip_NN
+squamous_JJ cell_NN carcinoma_NN skin_NN lower_JJR lip_NN
+squamous_JJ cell_NN carcinoma_NN skin_NN cheek_NN
+laceration_NN skin_NN penis_NN
+metastasis_NN skin_NN unknown_JJ primary_NN
+open_JJ wound_NN skin_NN nose_NN
+carcinoma_NN skin_NN head_NN /_HYPH neck_NN
+skin_NN -_HYPH benign_JJ mole_NN nevus_NN
+burn_VB skin_NN body_NN region_NN
+radionecrosis_NN skin_NN
+drug_NN group_NNS agent_NNS primarily_RB acting_VBG skin_NN adverse_JJ reaction_NN
+drug_NN group_NNS agent_NNS primarily_RB acting_VBG skin_NN allergy_NN
+overdose_NN drug_NN group_NNS agent_NNS primarily_RB acting_VBG skin_NN
+benign_JJ neoplasm_NN skin_NN head_NN neck_NN
+flap_NN laceration_NN skin_NN
+foreign_JJ body_NN
+sting_NN skin_NN
+excoriation_NN anal_JJ skin_NN
+skin_NN ulcer_NN dorsum_NN foot_NN
+skin_NN ulcer_NN nose_NN
+skin_NN ulcer_NN calf_NN
+intertrigo_NN abdominal_JJ skin_NN fold_RB
+early_RB yaw_NNS skin_NN lesion_NN
+sebaceous_JJ adenoma_NN skin_NN
+malignant_JJ blue_JJ nevus_NN skin_NN
+pilomatrix_NN carcinoma_NN skin_NN
+cellulitis_NN skin_NN back_RB
+malignant_JJ neoplasm_NN skin_NN scapular_JJ region_NN
+toxocara_NN larva_NN migrans_NNS skin_NN
+burn_VB skin_NN eye_NN region_NN
+local_JJ recurrence_NN malignant_JJ tumor_NN skin_NN
+local_JJ recurrence_NN malignant_JJ melanoma_NN skin_NN
+metastasis_NN malignant_JJ melanoma_NN skin_NN
+metastasis_NN malignant_JJ tumor_NN skin_NN
+changing_VBG shape_NN pigmented_JJ skin_NN lesion_NN
+irregular_JJ outline_NN pigmented_JJ skin_NN lesion_NN
+changing_VBG color_NN pigmented_JJ skin_NN lesion_NN
+mixed_JJ color_NN pigmented_JJ skin_NN lesion_NN
+itching_NN pigmented_JJ skin_NN lesion_NN
+oozing_VBG pigmented_JJ skin_NN lesion_NN
+crusting_VBG pigmented_JJ skin_NN lesion_NN
+non-healing_VBG pigmented_JJ skin_NN lesion_NN
+subcutaneous_JJ component_NN pigmented_JJ skin_NN lesion_NN
+skin_NN rash_NN caused_VBN contact_NN animal_NN toxin_NN
+skin_NN rash_NN caused_VBN larva_NNS sea_NN anemone_NN
+cellulitis_NN skin_NN
+neoplasm_NN skin_NN
+neoplasm_NN skin_NN
+cellulitis_NN skin_NN lymphangitis_NN
+disorder_NN skin_NN subcutaneous_JJ tissue_NN flank_NN
+papulonodular_JJ disease_NN skin_NN
+disorder_NN skin_NN subcutaneous_JJ tissue_NN trunk_NN
+disorder_NN skin_NN subcutaneous_JJ tissue_NN neck_NN
+disorder_NN skin_NN subcutaneous_JJ tissue_NN head_NN
+chronic_JJ disease_NN skin_NN
+bacterial_JJ infection_NN skin_NN
+viral_JJ infection_NN skin_NN
+parasitic_JJ infection_NN skin_NN
+psychogenic_JJ skin_NN disease_NN
+congenital_JJ ichthyosis_NN skin_NN
+nutritional_JJ edema_NN without_IN dyspigmentation_NN skin_NN hair_NN
+laceration_NN skin_NN eyelid_NN periocular_JJ area_NN
+thickening_NN skin_NN
+silica_NN granuloma_NN skin_NN
+chronic_JJ ulcer_NN skin_NN
+congenital_JJ deficiency_NN pigment_NN skin_NN
+infection_NN skin_NN subcutaneous_JJ tissue_NN
+fibrohistiocytic_JJ proliferation_NN skin_NN
+mechanical_JJ complication_NN due_IN skin_NN graft_NN failure_NN rejection_NN
+abscess_NN skin_NN lymphangitis_NN digit_NN
+skin_NN hypopigmented_VBN
+achromia_NN skin_NN
+friction_NN blister_NNS skin_NN
+hypertrophic_JJ condition_NN skin_NN
+inflammation_NN skin_NN subcutaneous_JJ tissue_NN
+infected_JJ ulcer_NN skin_NN
+dominant_JJ dystrophic_JJ epidermolysis_NN bullosa_NN absence_NN skin_NN
+paraffinoma_NN skin_NN
+residual_JJ hemorrhoidal_JJ skin_NN tag_NNS
+cicatricial_JJ skin_NN lesion_NNS pinta_NN
+abscess_NN skin_NN subcutaneous_JJ tissue_NN
+parasitic_JJ skin_NN infestation_NN
+foreign_JJ body_NN granuloma_NN skin_NN
+carotene_NN pigmentation_NN skin_NN
+induration_NN skin_NN
+fibrous_JJ skin_NN tumor_NN tuberous_JJ sclerosis_NN
+female_JJ genital_JJ tract_NN -_HYPH skin_NN fistula_NN
+pyogenic_JJ granuloma_NN skin_NN
+skin_NN irritation_NN
+skin_NN deposit_NNS
+furunculosis_NN skin_NN subcutaneous_JJ tissue_NN
+late_JJ effect_NN injury_NNS skin_NN subcutaneous_JJ tissue_NNS
+poisoning_NN caused_VBN skin_NN mucous_JJ membrane_NN drug_NN
+lymphocytic_JJ vasculitis_NN skin_NN
+skin_NN ulcer_NN
+leukokeratosis_NN skin_NN
+hyperpigmentation_NN skin_NN
+candidiasis_NN skin_NN
+electrical_JJ burn_VB skin_NN
+vasculitis_NN skin_NN
+endometriosis_NN scar_NN skin_NN
+parakeratosis_NN skin_NN
+strawberry_NN nevus_NN skin_NN
+secondary_JJ syphilis_NN skin_NN
+fistula_NN skin_NN
+starch_NN granuloma_NN skin_NN
+dyschromic_JJ skin_NN lesion_NNS pinta_NN
+skin_NN vegetation_NNS
+neutrophilic_JJ vasculitis_NN skin_NN
+small_JJ vessel_NN thrombosis_NN skin_NN
+tuberculosis_NN skin_NN
+contact_NN dermatitis_NN caused_VBN food_NN contact_NN skin_NN
+vascular_JJ hamartoma_NN skin_NN
+scar_NN skin_NN
+achromic_JJ hyperchromic_JJ skin_NN lesion_NNS pinta_NN
+rectum_NN skin_NN fistula_NN
+fibrosis_NN skin_NN
+epithelial_JJ hyperplasia_NN skin_NN
+sebaceous_JJ cyst_NN skin_NN breast_NN
+abscess_NN skin_NN lymphangitis_NN
+achromic_JJ skin_NN lesion_NNS pinta_NN
+congenital_JJ accessory_JJ skin_NN tag_NN
+perineal_JJ laceration_NN involving_VBG skin_NN
+sclerosis_NN skin_NN
+zirconium_NN granuloma_NN skin_NN
+argyria_NN skin_NN
+beryllium_NN granuloma_NN skin_NN
+carbuncle_NN skin_NN subcutaneous_JJ tissue_NN
+histiocytic_JJ vasculitis_NN skin_NN
+carcinoma_NN
+lipoma_NN
+malignant_JJ melanoma_NN
+primary_JJ malignant_JJ neoplasm_NN
+secondary_JJ malignant_JJ
+neoplasm_NN uncertain_JJ behavior_NN
+skin_NN nodule_NN
+fissure_NN skin_NN
+edematous_JJ skin_NN
+skin_NN lesion_NN
+vesicular_JJ skin_NN eruption_NNS temporal_JJ region_NN
+autoimmune_JJ skin_NN disease_NN
+ulcer_NN skin_NN caused_VBN ischemia_NN due_IN hypertensive_JJ disease_NN
+skin_NN necrosis_NN
+postinflammatory_JJ skin_NN pigmentation_NN change_NN
+perianal_JJ skin_NN tag_NNS
+benign_JJ neoplasm_NN fibrous_JJ tissue_NN skin_NN
+traumatic_JJ skin_NN ulcer_NN
+syphilitic_JJ skin_NN disorder_NN
+streptococcal_JJ skin_NN disorder_NN
+disorder_NN skin_NN vulva_NN
+disorder_NNS skin_NN caused_VBN physical_JJ agent_NNS
+polyneuropathy_NN
+organomegaly_RB
+endocrinopathy_NN
+monoclonal_JJ gammopathy_NN
+skin_NN change_NNS syndrome_NN
+bleach_NN burn_VBP skin_NN
+hot_JJ tar_NN burn_VB skin_NN
+firework_NNS burn_VBP skin_NN
+radiant_JJ heat_NN burn_VB skin_NN
+flash_NN burn_VBP skin_NN
+contact_NN burn_VBP skin_NN
+steam_NN burn_VBP skin_NN
+hot_JJ water_NN burn_VB skin_NN
+hot_JJ oil_NN burn_VB skin_NN
+hot_JJ drink_NN burn_VB skin_NN
+food_NN burn_VBP skin_NN
+fat_NN burn_VBP skin_NN
+tumor_NN skin_NN sebaceous_JJ differentiation_NN
+malignant_JJ neoplasm_NN skin_NN scalp_NN
+giant_JJ cell_NN fibroblastoma_NN skin_NN
+hidradenoma_NN skin_NN
+eccrine_JJ papillary_JJ adenoma_NN skin_NN
+epithelial_JJ neoplasm_NN skin_NN
+malignant_JJ epithelial_JJ neoplasm_NN skin_NN
+benign_JJ epithelial_JJ neoplasm_NN skin_NN
+eccrine_JJ porocarcinoma_NN skin_NN
+digital_JJ papillary_JJ eccrine_NN carcinoma_NN skin_NN
+adenoid_JJ cystic_JJ eccrine_NN carcinoma_NN skin_NN
+microcystic_JJ adnexal_JJ carcinoma_NN skin_NN
+mucinous_JJ eccrine_JJ carcinoma_NN skin_NN
+eccrine_JJ hidrocystoma_NN skin_NN
+eccrine_JJ dermal_JJ duct_NN tumor_NN skin_NN
+eccrine_JJ mixed_JJ tumor_NN skin_NN
+eccrine_JJ epithelioma_NN skin_NN
+fibrohistiocytic_JJ tumor_NN skin_NN
+malignant_JJ skin_NN tumor_NN adnexal_JJ differentiation_NN
+eruption_NN skin_NN
+eccrine_JJ dermal_JJ cylindroma_NN skin_NN
+syringoma_NN skin_NN
+degenerative_JJ skin_NN disorder_NN
+splinter_NN skin_NN infection_NN
+pigmented_VBN dermatofibrosarcoma_NN protuberans_NNS skin_NN
+pleomorphic_JJ malignant_JJ fibrous_JJ histiocytoma_NN skin_NN
+congenital_JJ pigmented_JJ melanocytic_JJ nevus_NN skin_NN
+disorder_NN skin_NN neck_NN
+basal_JJ cell_NN carcinoma_NN postauricular_JJ skin_NN
+infantile_JJ stiff_JJ skin_NN syndrome_NN
+hamartoma_NN skin_NN appendage_NN
+hamartoma_NN skin_NN
+collagen_NN nevus_NN skin_NN
+basal_JJ cell_NN carcinoma_NN preauricular_JJ skin_NN
+castleman_NN 's_POS superficial_JJ pseudotumor_NN
+involving_VBG skin_NN
+crohn_NNP 's_POS disease_NN skin_NN
+deep_JJ hemangioma_NN skin_NN
+eccrine_JJ poroma_NN skin_NN
+melanocytic_JJ nevus_NN skin_NN
+abrasion_NN friction_NN burn_VBP skin_NN
+skin_NN disorder_NN genitalia_NNS perineum_NN
+desmoplastic_JJ spindle_NN epithelioid_JJ cell_NN melanocytic_JJ nevus_NN skin_NN
+alkali_JJ burn_VB skin_NN
+cement_NN burn_VB skin_NN
+disorder_NN perianal_JJ skin_NN
+superficial_JJ injury_NN skin_NN
+superficial_JJ laceration_NN skin_NN
+neoplasm_NN skin_NN region_NN
+disorder_NN skin_NN head_NN
+congenital_JJ hamartoma_NN skin_NN
+amebic_JJ ulcer_NN skin_NN
+connective_JJ tissue_NN nevus_NN skin_NN
+eccrine_JJ hidradenoma_NN skin_NN
+disorder_NN skin_NN trunk_NN
+acid_NN burn_VBP skin_NN
+exfoliative_JJ disorder_NN skin_NN scalp_NN
+sarcoidal_JJ granuloma_NN skin_NN
+lethal_JJ tight_JJ skin_NN contracture_NN syndrome_NN
+epithelioid_JJ hemangioma_NN skin_NN
+vascular_JJ neoplasm_NN skin_NN
+disorder_NN skin_NN upper_JJ limb_NN
+phosphorus_NN burn_VBP skin_NN
+blister_NN skin_NN without_IN infection_NN
+caustic_JJ burn_VB skin_NN
+eccrine_JJ carcinoma_NN skin_NN
+myxofibrosarcoma_NN skin_NN
+atrophic_JJ condition_NN skin_NN
+disorder_NN skin_NN lower_JJR limb_NN
+blister_NN skin_NN infection_NN
+cytomegalovirus_NN infection_NN skin_NN
+sexually_RB transmitted_VBN bacterial_JJ disease_NN affecting_VBG skin_NN
+brucellosis_NN skin_NN
+systemic_JJ candidosis_NN skin_NN involvement_NN
+malassezia_NN infection_NN skin_NN
+trypanosomiasis_NN affecting_VBG skin_NN
+trichomoniasis_NN affecting_VBG skin_NN
+frictional_JJ injury_NN skin_NN
+acute_JJ effect_NN ultraviolet_JJ radiation_NN normal_JJ skin_NN
+chronic_JJ effect_NN ultraviolet_JJ radiation_NN normal_JJ skin_NN (_-LRB- photo_NN -_HYPH aging_NN )_-RRB-
+skin_NN injury_NN due_IN violence_NN
+crush_NN injury_NN skin_NN
+lichen_NN simplex_NN perianal_JJ skin_NN
+allergic_JJ contact_NN dermatitis_NN perianal_JJ skin_NN
+chapping_NN skin_NN caused_VBN wet_JJ work_NN
+psoriasis_NN perianal_JJ skin_NN
+desquamation_NN skin_NN following_VBG febrile_JJ illness_NN
+drug_NN -_HYPH induced_VBN desquamation_NN skin_NN
+metastatic_JJ crohn_NN 's_POS disease_NN skin_NN
+human_JJ herpes_NN virus_NN 6_CD infection_NN skin_NN
+secondary_JJ systemic_JJ amyloidosis_NN affecting_VBG skin_NN
+hemodialysis_NN -_HYPH associated_VBN secondary_JJ amyloidosis_NN skin_NN
+heredofamilial_JJ systemic_JJ amyloidosis_NN affecting_VBG skin_NN
+secondary_JJ xanthomatous_JJ infiltration_NN skin_NN
+basal_JJ cell_NN carcinoma_NN truncal_JJ skin_NN
+human_JJ herpes_NN virus_NN 7_CD infection_NN skin_NN
+exposure_NN skin_NN irritant_NN co-factor_NN eczema_NN
+allergy_NN drug_NN contact_NN skin_NN
+disorder_NN skin_NN color_NN
+malignant_JJ vascular_JJ tumor_NN skin_NN
+infective_JJ dermatosis_NN perianal_JJ skin_NN
+systemic_JJ amyloidosis_NN affecting_VBG skin_NN
+amyloidosis_NN limited_VBN skin_NN
+mucinosis_NN affecting_VBG skin_NN
+focal_JJ primary_JJ mucinosis_NN skin_NN
+secondary_JJ catabolic_JJ mucinosis_NN skin_NN
+hyperlipidemia_NN lipid_NN deposition_NN skin_NN
+skin_NN change_NNS due_IN malnutrition_NN
+metastatic_JJ calcification_NN skin_NN
+habit_NN tic_JJ affecting_VBG skin_NN
+factitious_JJ skin_NN disease_NN
+artefactual_JJ skin_NN disease_NN
+addictive_JJ behavior_NN potential_JJ damage_NN skin_NN
+artefactual_JJ skin_NN disease_NN inflicted_VBN others_NNS
+skin_NN damage_NN resulting_VBG congenital_JJ /_HYPH hereditary_JJ neuropathy_NN
+skin_NN damage_NN resulting_VBG acquired_VBN nerve_NN disorder_NN
+spinal_JJ cord_NN defect_NN affecting_VBG skin_NN
+skin_NN disease_NN attributable_JJ corticosteroid_JJ therapy_NN
+skin_NN disorder_NN due_IN phototherapy_NN
+skin_NN lesion_NN associated_VBN hemodialysis_NN
+skin_NN lesion_NN drug_NN addict_NN
+skin_NN lesion_NN due_IN drug_NN overdose_NN
+hereditary_JJ inflammatory_JJ disorder_NN involving_VBG skin_NN
+neonatal_JJ viral_JJ infection_NN skin_NN
+neonatal_JJ pyogenic_JJ infection_NN skin_NN
+neonatal_JJ fungal_JJ infection_NN skin_NN
+physiological_JJ anomaly_NN neonatal_JJ skin_NN
+basal_JJ cell_NN carcinoma_NN skin_NN lip_NN
+acquired_VBN arteriovenous_JJ malformation_NN skin_NN
+human_JJ herpes_NN virus_NN 8_CD infection_NN skin_NN
+reactive_JJ vascular_JJ proliferation_NN skin_NN
+benign_JJ fibrohistiocytic_JJ neoplasm_NN skin_NN
+malignant_JJ fibrohistiocytic_JJ tumor_NN skin_NN
+-_HYPH cell_NN leukemic_JJ infiltration_NN skin_NN
+hodgkin_NNP 's_POS disease_NN affecting_VBG skin_NN
+streptococcal_JJ infection_NN skin_NN
+staphylococcal_JJ infection_NN skin_NN
+condylomata_JJ lata_NN perianal_JJ skin_NN
+pseudomonas_NNS septicemia_NN skin_NN involvement_NN
+salmonella_NN infection_NN skin_NN involvement_NN
+neonatal_JJ staphylococcal_JJ scalded_VBN skin_NN syndrome_NN
+skin_NN involvement_NN bacterial_JJ endocarditis_NN
+mycobacterium_NN kansasii_NN infection_NN skin_NN
+mycobacterium_NN scrofulaceum_NN infection_NN skin_NN
+mycobacterium_NN szulgai_NN infection_NN skin_NN
+mycobacterium_NN avium_NN intracellulare_NN infection_NN skin_NN
+mycobacterium_NN fortuitum_NN infection_NN skin_NN
+mycobacterium_NN chelonae_NNS infection_NN skin_NN
+mycobacterium_NN gordonae_NNS infection_NN skin_NN
+mycobacterium_NN malmoense_NN infection_NN skin_NN
+mycobacterium_NN abscessus_NN infection_NN skin_NN
+disseminated_VBN nocardiosis_NN infection_NN affecting_VBG skin_NN
+disseminated_VBN actinomycosis_NN infection_NN affecting_VBG skin_NN
+echinococcosis_NN skin_NN
+cysticercosis_NN skin_NN
+sparganosis_NN skin_NN
+african_JJ trypanosomiasis_NN affecting_VBG skin_NN
+american_JJ trypanosomiasis_NN affecting_VBG skin_NN
+skin_NN reaction_NN caused_VBN noxious_JJ venomous_JJ marine_JJ invertebrate_NN
+skin_NN injury_NN due_IN animal_NN
+protothecosis_NN skin_NN
+blistering_VBG skin_NN induced_VBN prolonged_JJ pressure_NN
+blistering_VBG skin_NN due_IN coma_NN
+reaction_NN thorn_NN spine_NN skin_NN
+reaction_NN metallic_JJ ring_NN
+stud_NN infibulata_NN skin_NN
+skin_NN pigmentation_NN due_IN hemosiderosis_NN
+hemosiderin_NN pigmentation_NN skin_NN due_IN venous_JJ insufficiency_NN
+pigmented_JJ skin_NN lesion_NN suspected_VBN benign_JJ nature_NN
+pigmented_JJ skin_NN lesion_NN suspected_VBN malignant_JJ nature_NN
+pigmented_JJ skin_NN lesion_NN uncertain_JJ nature_NN
+localized_JJ skin_NN involvement_NN breast_NN carcinoma_NN
+intrinsic_JJ aging_NN skin_NN
+oculo_NN -_HYPH cerebro_NN -_HYPH cutaneous_JJ syndrome_NN (_-LRB- aplasia_NN cutis_NN
+skin_NN tag_NNS
+eye_NN &_CC brain_NN defect_NNS
+calcinosis_NN within_IN skin_NN cystor_NN tumor_NN
+hypercalcemic_JJ metastatic_JJ calcification_NN skin_NN
+normocalcemic_JJ metastatic_JJ calcification_NN skin_NN
+non-accidental_JJ injury_NN skin_NN
+phobic_JJ fear_NN skin_NN cancer_NN
+neurotrophic_JJ damage_NN skin_NN
+methotrexate_NN skin_NN ulceration_NN
+atrophy_NN skin_NN caused_VBN topical_JJ corticosteroid_NN
+atrophy_NN skin_NN caused_VBN systemic_JJ corticosteroid_NN
+necrosis_NN ulceration_NN skin_NN caused_VBN extravasation_NN drug_NN
+atrophy_NN skin_NN caused_VBN drug_NN
+skin_NN flap_NN necrosis_NN
+skin_NN flap_NN pin_NN -_HYPH cushion_NN deformity_NN
+skin_NN graft_NN necrosis_NN
+skin_NN graft_NN hypertrophy_NN
+skin_NN graft_NN hyperpigmentation_NN
+hemorrhage_NN following_VBG skin_NN surgery_NN
+psoralen_NN long_JJ -_HYPH wave_NN ultraviolet_NN radiation_NN therapy_NN -_HYPH associated_VBN skin_NN malignancy_NN
+ulceration_NN skin_NN caused_VBN therapeutic_JJ ionizing_NN radiation_NN
+radiation_NN -_HYPH induced_VBN skin_NN malignancy_NN
+skin_NN reaction_NN caused_VBN vesicant_NN poison_NN
+skin_NN disease_NN caused_VBN arsenic_NN
+arsenic_NN -_HYPH induced_VBN skin_NN malignancy_NN
+arsenic_NN -_HYPH induced_VBN skin_NN pigmentation_NN
+skin_NN sign_NN acute_JJ arsenic_NN toxicity_NN
+skin_NN lesion_NN due_IN intravenous_JJ drug_NN abuse_NN
+blistering_VBG skin_NN due_IN drug_NN -_HYPH induced_VBN coma_NN
+neonatal_JJ staphylococcal_JJ infection_NN skin_NN
+perinatal_JJ skin_NN trauma_NN due_IN obstetric_JJ injury_NN
+neonatal_JJ iatrogenic_JJ skin_NN trauma_NN
+multiple_JJ skin_NN tag_NNS
+multiple_JJ skin_NN tag_NNS eyelid_NNS
+multiple_JJ skin_NN tag_NNS neck_NN
+multiple_JJ axillary_JJ skin_NN tag_NNS
+multiple_JJ skin_NN tag_NNS groin_NN
+squamous_JJ cell_NN carcinoma_NN skin_NN face_NN
+squamous_JJ cell_NN carcinoma_NN skin_NN ear_NN
+squamous_JJ cell_NN carcinoma_NN skin_NN lower_JJR extremity_NN
+squamous_JJ cell_NN carcinoma_NN skin_NN trunk_NN
+eccrine_JJ syringofibroadenoma_NN skin_NN
+hidroacanthoma_NN simplex_NN skin_NN
+eccrine_JJ spiradenoma_NN skin_NN
+eccrine_JJ ductal_JJ carcinoma_NN skin_NN
+clear_JJ cell_NN eccrine_NN hidradenocarcinoma_NN skin_NN
+malignant_JJ cylindroma_NN skin_NN
+malignant_JJ eccrine_JJ spiradenoma_NN skin_NN
+malignant_JJ chondroid_JJ syringoma_NN skin_NN
+small_JJ cell_NN eccrine_NN carcinoma_NN skin_NN
+apocrine_JJ adenocarcinoma_NN skin_NN
+ceruminous_JJ gland_NN adenocarcinoma_NN skin_NN
+lymphoepithelial_JJ tumor_NN skin_NN
+mixed_JJ eccrine_NN pilar_JJ adnexal_JJ carcinoma_NN skin_NN
+undifferentiated_JJ adnexal_JJ carcinoma_NN skin_NN
+mixed_JJ adnexal_JJ neoplasm_NN skin_NN
+unclassifiable_JJ
+glomangioma_NN skin_NN
+glomangiomyoma_NN skin_NN
+familial_JJ glomus_NN tumor_NN skin_NN
+myopericytoma_NN skin_NN
+pigmented_VBN histiocytoma_NN skin_NN
+sclerosing_VBG angioma_NN skin_NN
+cellular_JJ histiocytoma_NN skin_NN
+atypical_JJ pseudosarcomatous_JJ histiocytoma_NN skin_NN
+aneurysmal_JJ histiocytoma_NN skin_NN
+keloidal_JJ histiocytoma_NN skin_NN
+palisaded_JJ histiocytoma_NN skin_NN
+clear_JJ cell_NN histiocytoma_NN skin_NN
+granular_JJ cell_NN histiocytoma_NN skin_NN
+plexiform_JJ fibrohistiocytic_JJ tumor_NN skin_NN
+angiomatoid_JJ fibrous_JJ histiocytoma_NN skin_NN
+malignant_JJ fibrous_JJ histiocytoma_NN skin_NN
+superficial_JJ malignant_JJ fibrous_JJ histiocytoma_NN skin_NN
+giant_JJ cell_NN malignant_JJ fibrous_JJ histiocytoma_NN skin_NN
+inflammatory_JJ malignant_JJ fibrous_JJ histiocytoma_NN skin_NN
+epithelioid_JJ leiomyosarcoma_NN skin_NN
+myxoid_JJ leiomyosarcoma_NN skin_NN
+carcinosarcoma_NN skin_NN
+malignant_JJ infiltration_NN skin_NN underlying_VBG tumor_NN
+carcinomatous_JJ metastasis_NN skin_NN
+sarcomatous_JJ metastasis_NN skin_NN
+inflammatory_JJ pseudotumor_NN skin_NN
+leukemic_JJ infiltration_NN skin_NN
+angiocentric_JJ natural_JJ killer_NN -_HYPH cell_NN malignant_JJ lymphoma_NN involving_VBG skin_NN
+aggressive_JJ natural_JJ killer_NN -_HYPH cell_NN leukemia_NN involving_VBG skin_NN
+precursor_NN b_NN -_HYPH cell_NN lymphoblastic_JJ lymphoma_NN involving_VBG skin_NN
+small_JJ lymphocytic_JJ b_NN -_HYPH cell_NN lymphoma_NN involving_VBG skin_NN
+leukemic_JJ infiltration_NN skin_NN hairy_JJ -_HYPH cell_NN leukemia_NN
+follicular_JJ center_NN b_NN -_HYPH cell_NN lymphoma_NN
+diffuse_JJ large_JJ b_NN -_HYPH cell_NN lymphoma_NN
+lymphoplasmacytic_JJ b_NN -_HYPH cell_NN lymphoma_NN
+nodal_NN systemic_JJ skin_NN involvement_NN
+mantle_NN cell_NN b_NN -_HYPH cell_NN lymphoma_NN
+leukemic_JJ infiltration_NN skin_NN myeloid_JJ leukemia_NN
+leukemic_JJ infiltration_NN skin_NN acute_JJ myeloid_JJ leukemia_NN
+leukemic_JJ infiltration_NN skin_NN chronic_JJ myeloid_JJ leukemia_NN
+leukemic_JJ infiltration_NN skin_NN monocytic_JJ leukemia_NN
+granulocytic_JJ sarcoma_NN affecting_VBG skin_NN
+leukemic_JJ infiltration_NN skin_NN
+specific_JJ skin_NN infiltration_NN hodgkin_NNP 's_POS disease_NN
+malakoplakia_NN
+malignant_JJ histiocytosis_NN involving_VBG skin_NN
+mast_NN cell_NN leukemia_NN affecting_VBG skin_NN
+burn_VB contracture_NN skin_NN
+scab_NN skin_NN
+skin_NN eschar_NN
+juvenile_JJ xanthogranuloma_NN skin_NN
+keratoacanthoma_NN skin_NN
+conjunctivitis_NN associated_VBN autoimmune_JJ skin_NN disorder_NN
+focal_JJ epithelial_JJ hyperplasia_NN skin_NN
+port_NN -_HYPH wine_NN stain_NN skin_NN
+examination_NN -_HYPH skin_NN plaque_NNS
+allergic_JJ disorder_NN skin_NN
+skin_NN disorder_NN associated_VBN acquired_VBN immunodeficiency_NN syndrome_NN
+skin_NN rash_NN associated_VBN acquired_VBN immunodeficiency_NN syndrome_NN
+skin_NN ulcer_NN associated_VBN diabetes_NN mellitus_NN
+petechia_NNS skin_NN
+malignant_JJ neoplasm_NN skin_NN eyelid_NN
+malignant_JJ melanoma_NN skin_NN lower_JJR eyelid_NN
+malignant_JJ melanoma_NN skin_NN upper_JJ eyelid_NN
+malignant_JJ melanoma_NN skin_NN canthus_NN eye_NN
+malignant_JJ melanoma_NN skin_NN lower_JJR lip_NN
+malignant_JJ melanoma_NN skin_NN upper_JJ lip_NN
+squamous_JJ cell_NN carcinoma_NN skin_NN neck_NN
+lentigo_JJ maligna_NN skin_NN eyelid_NN
+scald_VB skin_NN
+bite_NN wound_NN skin_NN
+aphthous_JJ ulceration_NN skin_NN mucous_JJ membrane_NN
+eosinophilic_JJ vasculitis_NN skin_NN
+superficial_JJ abrasion_NN skin_NN shoulder_NN
+open_JJ bite_NN wound_NN skin_NN
+malignant_JJ basal_JJ cell_NN neoplasm_NN skin_NN
+dehiscence_NN wound_NN skin_NN
+rhytide_NN glabellar_JJ skin_NN
+avulsion_NN skin_NN
+traumatic_JJ tear_NN skin_NN
+infection_NN skin_NN finger_NN
+laceration_NN skin_NN hand_NN
+contracture_NN skin_NN hand_NN
+localized_VBN infection_NN skin_NN subcutaneous_JJ tissue_NN
+skin_NN disorder_NN treatment_NN changed_VBD
+skin_NN disorder_NN treatment_NN stopped_VBD
+hemorrhage_NN skin_NN newborn_JJ
+scar_NN skin_NN hand_NN
+skin_NN disorder_NN treatment_NN started_VBD
+infection_NN skin_NN neck_NN
+scar_NN skin_NN eyelid_NN
+abrasion_NN skin_NN lower_JJR back_NN
+complication_NN artificial_JJ skin_NN graft_NN
+complication_NN artificial_JJ skin_NN graft_NN decellularized_VBN allodermis_NNS
+inflammation_NN skin_NN due_IN parasite_NN
+malignant_JJ neoplasm_NN skin_NN face_NN
+multiple_JJ lymphangioma_NNS skin_NN
+disorder_NN skin_NN caused_VBN tattoo_NN ink_NN
+extravasation_NN lymph_NN onto_IN skin_NN
+acute_JJ abscess_NN skin_NN subcutaneous_JJ tissue_NN
+lymphangioma_NN skin_NN
+contracture_NN scar_NN skin_NN
+graft_NN versus_CC host_NN disease_NN skin_NN
+cavernous_JJ hemangioma_NN skin_NN
+skin_NN ulcer_NN punched_VBN edge_NN
+symptomatic_JJ scar_NN skin_NN
+keratoacanthoma_NN skin_NN wrist_NN
+ulcer_NN skin_NN face_NN
+sinus_NN skin_NN inguinal_JJ region_NN
+sinus_NN skin_NN neck_NN
+epidermoid_JJ cyst_NN skin_NN scrotum_NN
+verruca_NNP vulgaris_NNP skin_NN scalp_NN
+laceration_NN skin_NN periocular_JJ area_NN
+verruca_NNP vulgaris_NNP skin_NN pinna_NN
+laceration_NN skin_NN eyelid_NN
+epidermoid_JJ cyst_NN skin_NN thigh_NN
+epidermoid_JJ cyst_NN skin_NN ear_NN
+epidermoid_JJ cyst_NN skin_NN scalp_NN
+epidermoid_JJ cyst_NN skin_NN back_RB
+epidermoid_JJ cyst_NN skin_NN chest_NN
+sinus_NN skin_NN buttock_NN
+epidermoid_JJ cyst_NN skin_NN inguinal_JJ region_NN
+epidermoid_JJ cyst_NN skin_NN face_NN
+verruca_NNP vulgaris_NNP skin_NN lower_JJR extremity_NN
+inflammation_NN perioral_JJ skin_NN fold_RB
+rupture_NN epidermoid_JJ cyst_NN skin_NN
+epidermoid_JJ cyst_NN skin_NN neck_NN
+epidermoid_JJ cyst_NN skin_NN postauricular_JJ region_NN
+epidermoid_JJ cyst_NN skin_NN cheek_NN
+verruca_NNP vulgaris_NNP skin_NN cheek_NN
+dermatofibrosarcoma_NN protuberans_NNS skin_NN shoulder_NN
+malignant_JJ melanoma_NN skin_NN anus_NN
+dermatofibrosarcoma_NN protuberans_NNS skin_NN chest_NN
+malignant_JJ melanoma_NN skin_NN penis_NN
+malignant_JJ melanoma_NN skin_NN vulva_NN
+melanocytic_JJ nevus_NN skin_NN tip_NN nose_NN
+cystic_JJ dermoid_JJ choristoma_NN skin_NN back_RB
+paget_NN 's_POS disease_NN skin_NN scrotum_NN
+bowen_NNP 's_POS disease_NN skin_NN chest_NN
+diffuse_JJ non-hodgkin_NN 's_POS lymphoma_NN skin_NN
+malignant_JJ neoplasm_NN skin_NN scrotum_NN
+melanocytic_JJ nevus_NN skin_NN chest_NN
+non-hodgkin_NN 's_POS lymphoma_NN skin_NN
+melanocytic_JJ nevus_NN skin_NN thigh_NN
+bowen_NNP 's_POS disease_NN skin_NN buttock_NN
+malignant_JJ epithelial_JJ neoplasm_NN skin_NN anus_NN
+melanocytic_JJ nevus_NN skin_NN abdominal_JJ wall_NN
+malignant_JJ melanoma_NN skin_NN scrotum_NN
+papilloma_NN skin_NN scalp_NN
+papilloma_NN skin_NN lower_JJR eyelid_NN
+papilloma_NN skin_NN groin_NN
+follicular_JJ non-hodgkin_NN 's_POS lymphoma_NN skin_NN
+thickening_NN skin_NN breast_NN
+diffuse_JJ fetal_JJ skin_NN edema_NN
+superficial_JJ ulcer_NN skin_NN pacemaker_NN pulse_NN generator_NN site_NN
+blister_NN skin_NN mucosa_NN
+varicocele_RB visible_JJ skin_NN
+superficial_JJ skin_NN ulcer_NN lower_JJR limb_NN
+telangiectasia_NN skin_NN face_NN
+skin_NN breakdown_NN totally_RB implantable_JJ venous_JJ access_NN device_NN port_NN site_NN
+multiple_JJ venous_JJ malformation_NN skin_NN mucous_JJ membrane_NN
+inflammatory_JJ skin_NN disorder_NN solution_NN (_-LRB- physical_JJ object_NN )_-RRB-
+disorder_NN skin_NN scrotum_NN
+skin_NN disorder_NN male_JJ genitalia_NNS
+disorder_NN skin_NN penis_NN
+chronic_JJ ulcer_NN skin_NN due_IN type_NN 1_CD diabetes_NN mellitus_NN
+lesion_NN skin_NN face_NN
+skin_NN infestation_NN
+langerhans_NNS cell_NN histiocytosis_NN skin_NN
+ischemic_JJ ulcer_NN skin_NN
+defect_NN skin_NN hand_NN
+acute_JJ ulcer_NN skin_NN
+lesion_NN skin_NN foot_NN
+congenital_JJ skin_NN contracture_NN
+acral_JJ peeling_VBG skin_NN syndrome_NN
+skin_NN ulcer_NN toe_NN due_IN diabetes_NN mellitis_NN type_NN 1_CD
+skin_NN ulcer_NN toe_NN due_IN diabetes_NN mellitis_NN type_NN 2_CD
+chronic_JJ skin_NN ulcer_NN sacrum_NN
+chronic_JJ ulcer_NN skin_NN lower_JJR leg_NN
+chronic_JJ ulcer_NN skin_NN ankle_NN
+chronic_JJ ulcer_NN skin_NN calf_NN
+ulcer_NN skin_NN lower_JJR extremity_NN
+abscess_NN skin_NN breast_NN
+abscess_NN skin_NN abdomen_NN
+skin_NN ulcer_NN due_IN varicose_JJ vein_NNS
+primary_JJ adenocarcinoma_NN skin_NN
+eruption_NN skin_NN co-occurrent_NN human_JJ immunodeficiency_NN virus_NN infection_NN
+disorder_NN skin_NN co-occurrent_NN human_JJ immunodeficiency_NN virus_NN infection_NN
+eruption_NN skin_NN caused_VBN antiretroviral_JJ drug_NN
+infection_NN skin_NN eyelid_NN periocular_JJ region_NN
+infection_NN skin_NN caused_VBN neoscytalidium_NN dimidiatum_NN
+delayed_VBN speech_NN facial_JJ asymmetry_NN strabismus_NN ear_NN lobe_NN skin_NN crease_NN syndrome_NN
+nodular_JJ basal_JJ cell_NN carcinoma_NN skin_NN
+basal_JJ cell_NN carcinoma_NN skin_NN situ_FW
+skin_NN ulcer_NN associated_VBN type_NN ii_CD diabetes_NN mellitus_NN
+developmental_JJ speech_NN disorder_NN
+speech_NN cortex_NN disorder_NN
+motor_NN speech_NN disorder_NN
+developmental_JJ motor_NN speech_NN disorder_NN
+speech_NN language_NN disorder_NN
+disorder_NN speech_NN language_NN development_NN
+speech_NN delay_NN
+speech_NN language_NN dyspraxias_NNS
+speech_NN phonology_NN impairment_NNS
+developmental_JJ articulation_NN disorder_NN
+articulatory_JJ dyspraxia_NN
+family_NN history_NN speech_NN language_NN disorder_NN
+speech_NN language_NN developmental_JJ delay_NN due_IN hearing_NN loss_NN
+speech_NN language_NN deficit_NN late_JJ effect_NN cerebrovascular_JJ accident_NN
+phonological_JJ disorder_NN
+difficulty_NN speaking_VBG
+delayed_VBN speech_NN facial_JJ asymmetry_NN strabismus_NN ear_NN lobe_NN skin_NN crease_NN syndrome_NN
+mental_JJ disorder_NN childhood_NN
+maintenance_NN drug_NN therapy_NN mental_JJ disorder_NN
+initial_JJ drug_NN therapy_NN mental_JJ disorder_NN
+psychoactive_JJ substance_NN -_HYPH induced_VBN organic_JJ mental_JJ disorder_NN
+opioid_JJ -_HYPH induced_VBN organic_JJ mental_JJ disorder_NN
+insomnia_NN disorder_NN related_VBN another_DT mental_JJ disorder_NN
+mental_JJ disorder_NN infancy_NN
+mental_JJ disorder_NN adolescence_NN
+alcohol_NN -_HYPH induced_VBN organic_JJ mental_JJ disorder_NN
+nicotine_NN -_HYPH induced_VBN organic_JJ mental_JJ disorder_NN
+cocaine_NN -_HYPH induced_VBN organic_JJ mental_JJ disorder_NN
+hallucinogen_NN -_HYPH induced_VBN organic_JJ mental_JJ disorder_NN
+social_JJ problem_NN due_IN mental_JJ disorder_NN
+inhalant_NN -_HYPH induced_VBN organic_JJ mental_JJ disorder_NN
+social_JJ maladjustment_NN
+mental_JJ disorder_NN
+cannabis_NN -_HYPH inducedorganic_JJ mental_JJ disorder_NN
+amphetamine_NN -_HYPH induced_VBN organic_JJ mental_JJ disorder_NN
+hypersomnia_NN disorder_NN related_VBN another_DT mental_JJ disorder_NN
+organic_JJ mental_JJ disorder_NN
+culture_NN bound_VBN syndrome_NN
+neurosis_NN
+chronic_JJ mental_JJ disorder_NN
+developmental_JJ mental_JJ disorder_NN
+family_NN history_NN mental_JJ disorder_NN
+examination_NN suspected_VBN mental_JJ disorder_NN
+mental_JJ disorder_NN pregnancy_NN
+caffeine_NN -_HYPH induced_VBN organic_JJ mental_JJ disorder_NN
+arylcyclohexylamine_NN -_HYPH induced_VBN organic_JJ mental_JJ disorder_NN
+phencyclidine_NN -_HYPH related_VBN disorder_NN
+anxiolytic_JJ -_HYPH induced_VBN organic_JJ mental_JJ disorder_NN
+hypnotic_JJ -_HYPH induced_VBN organic_JJ mental_JJ disorder_NN
+specific_JJ nonpsychotic_JJ mental_JJ disorder_NNS following_VBG organic_JJ brain_NN damage_NN
+mental_JJ disorder_NNS pregnancy_NN
+childbirth_NN puerperium_NN
+prune_VB belly_NN syndrome_NN pulmonic_JJ stenosis_NN
+mental_JJ retardation_NN deafness_NN
+hypogonadism_NN
+diabetes_NN mellitus_NN
+alopecia_NN
+mental_JJ retardation_NN electrocardiographic_JJ abnormality_NNS
+nutritional_JJ mental_JJ retardation_NN
+keratoderma_NN mental_JJ retardation_NN spastic_JJ paraplegia_NN
+pregnancy_NN mental_JJ disorder_NNS
+alpha_NN thalassemia_NN -_HYPH mental_JJ retardation_NN syndrome_NN
+emotional_JJ mental_JJ disease_NN mother_NN complicating_VBG pregnancy_NN
+childbirth_NN puerperium_NN
+profound_JJ mental_JJ retardation_NN
+hyperphosphatasemia_NN mental_JJ retardation_NN
+severe_JJ mental_JJ retardation_NN
+moderate_JJ mental_JJ retardation_NN
+concussion_NN mental_JJ confusion_NN disorientation_NN without_IN loss_NN consciousness_NN
+borderline_NN mental_JJ retardation_NN
+marfanoid_JJ mental_JJ retardation_NN syndrome_NN
+mild_JJ mental_JJ retardation_NN
+mental_JJ retardation_NN
+hereditary_JJ insensitivity_NN pain_NN anhidrosis_NN
+mental_JJ retardation_NN
+congenital_JJ heart_NN disease_NN
+blepharophimosis_NN
+blepharoptosis_NN hypoplastic_JJ teeth_NNS
+dwarfism_NN
+gonadal_JJ hypoplasia_NN due_JJ xeroderma_NN pigmentosa_NN
+sub-mental_JJ lymphadenopathy_NN
+x-linked_VBN mental_JJ retardation_NN marfanoid_JJ habitus_NN syndrome_NN
+chronicorganic_JJ mental_JJ disorder_NN
+transientorganic_JJ mental_JJ disorder_NN
+mental_JJ disorder_NN caused_VBN drug_NN
+blepharophimosis_NN -_HYPH mental_JJ retardation_NN syndrome_NN
+maat_NN -_HYPH kievit_NN -_HYPH brunner_NN type_NN
+blepharophimosis_NN -_HYPH mental_JJ retardation_NN syndrome_NN
+say_VB -_HYPH barber_NN -_HYPH biesecker_NN -_HYPH young_JJ -_HYPH simpson_NN type_NN
+x-linked_VBN mental_JJ retardation_NN
+syndromic_JJ 13_CD
+x-linked_VBN mental_JJ retardation_NN syndrome_NN
+christianson_NN type_NN
+snyder_NN -_HYPH robinson_NN x-linked_VBN mental_JJ retardation_NN syndrome_NN
+iris_NN coloboma_NN ptosis_NN
+hypertelorism_NN mental_JJ retardation_NN
+short_JJ stature_NN -_HYPH characteristic_JJ facies_NNS -_HYPH mental_JJ retardation_NN -_HYPH macrodontia_NN -_HYPH skeletal_JJ anomaly_NNS syndrome_NN
+phencyclidine_NN induced_VBN mental_JJ problem_NN
+hypoplasia_NN corpus_NN callosum_NN mental_JJ retardation_NN adducted_VBN thumb_NNS spasticity_NN hydrocephalus_NN syndrome_NN
+alcohol_NN use_NN disorder_NN
+cannabis_NN use_NN disorder_NN
+opioid_JJ use_NN disorder_NN
+sedative_JJ use_NN disorder_NN
+stimulant_NN use_NN disorder_NN
+craving_NN
+tolerance_NN
+withdrawal_NN
+addicted_VBN liquor_NN
+alcohol_NN addiction_NN
+alcohol_NN abuse_NN
+addicted_VBN alcohol_NN
+addicted_VBN bear_VB
+dependent_JJ alcohol_NN
+alcoholism_NN
+heavy_JJ drinker_NN
+alcohol_NN dependence_NN
+alcoholic_JJ
+addicted_VBN wine_NN
+addicted_VBN vodka_NN
+heavy_JJ drinking_NN
+marijuana_NN abuse_NN
+addicted_VBN marijuana_NN
+addicted_VBN weed_NN
+marijuana_NN use_NN disorder_NN
+weed_NN use_NN disorder_NN
+weed_NN addiction_NN
+marijuana_NN addiction_NN
+addicted_VBN cannabis_NN
+cannabis_NN addiction_NN
+pain_NN pill_NN addict_NN
+pain_NN pill_NN addiction_NN
+addicted_VBN heroin_NN
+heroin_NN addict_NN
+opiate_JJ addict_NN
+heroin_NN addiction_NN
+addicted_VBN pain_NN pill_NNS
+opiate_JJ addiction_NN
+addicted_VBN opioids_NNS
+opiate_JJ use_NN disorder_NN
+addited_VBN opiate_NNS
+opioid_JJ addiction_NN
+fentanyl_NN addiction_NN
+addicted_VBN benzos_NNS
+abuse_NN benzos_NNS
+addicted_VBN sedative_NNS
+addicted_VBN klonopin_NN
+dependent_JJ benzodiazepine_NNS
+addicted_VBN valium_NN
+benzodiazepine_NN abuse_NN
+dependent_JJ sedative_NNS
+addicted_VBN xanax_NN
+addicted_VBN benzodiazepine_NNS
+dependent_JJ benzos_NNS
+sedative_JJ abuse_NN
+abuse_NN benzodiazepine_NNS
+abuse_NN sedative_NNS
+addicted_VBN
+addicted_VBN cocaine_NN
+dependent_JJ cocaine_NN
+addicted_VBN crack_VB
+dependent_JJ crack_NN
+crack_VB addict_NN
+addicted_VBN stimulant_NN
+addicted_VBN coke_NN
+cocaine_NN addict_NN
+dependent_JJ stimulant_NN
+addicted_VBN meth_NN
+methamphetmine_JJ addict_NN
+dependent_JJ meth_NN
+meth_NN addict_NN
+stimulant_NN addict_NN
+dependent_JJ methamphetmine_NN
+coke_NN addict_NN
+urge_NN
+crave_VBP
+need_VB
+tolerant_JJ
+dopesick_RB
+wwithdrawals_NNS
+paw_NNS
+w_NN /_,
+pws_NNS
+withdrawal_NN syndrome_NN
+family_NN history_NN mental_JJ disorder_NNS
+substance_NN abuse_NN
+family_NN history_NN suicide_NN
+family_NN history_NN violence_NN
+family_NN history_NN physical_JJ abuse_NN
+family_NN history_NN sexual_JJ abuse_NN
+medical_JJ condition_NN linked_VBN depression_NN suicidal_JJ thinking_NN
+chronic_JJ disease_NN
+chronic_JJ pain_NN
+terminal_JJ illness_NN
+loss_NN conflict_NN close_JJ friend_NNS family_NN member_NNS
+history_NN physical_JJ sexual_JJ abuse_NN
+problem_NNS alcohol_NN drug_NNS
+sexually_RB transmitted_VBN infection_NN
+reading_VBG account_NN suicide_NN
+heard_VBN account_NN suicide_NN
+peer_NN died_VBD suicide_NN ._.
+suicidal_JJ thought_NNS
+feeling_VBG suicidal_JJ
+potential_JJ suicide_NN care_NN
+suicide_NN low_JJ risk_NN
+beck_NNP scale_NN suicide_NN ideation_NN
+self_NN -_HYPH control_NN behavior_NN suicide_NN
+moderate_JJ suicide_NN risk_NN
+proactive_JJ therapy_NN
+post-partum_JJ depression_NN
+tends_VBZ tolerate_VB boredom_NN
+helpless_JJ
+powerless_JJ
+borderline_NN poverty_NN
+depressive_JJ delusion_NN poverty_NN
+poor_JJ
+tends_VBZ take_VB pleasure_NN suffering_NN others_NNS
+feeling_VBG hopeless_JJ
+risk_NN hopelessness_NN
+dementia_NN associated_VBN alcoholism_NN
+primary_JJ degenerative_JJ dementia_NN alzheimer_NN type_NN
+senile_RB onset_NN
+delirium_NN
+primary_JJ degenerative_JJ dementia_NN alzheimer_NN type_NN
+presenile_JJ onset_NN
+uncomplicated_JJ
+dialysis_NN dementia_NN
+multi-infarct_JJ dementia_NN delirium_NN
+primary_JJ degenerative_JJ dementia_NN alzheimer_NN type_NN
+presenile_JJ onset_NN
+depression_NN
+presenile_JJ dementia_NN
+multi-infarct_JJ dementia_NN depression_NN
+senile_RB dementia_NN
+multi-infarct_JJ dementia_NN delusion_NNS
+primary_JJ degenerative_JJ dementia_NN alzheimer_NN type_NN
+senile_RB onset_NN
+depression_NN
+progressive_JJ supranuclear_JJ ophthalmoplegia_NN
+inhalant_NN -_HYPH induced_VBN persisting_VBG dementia_NN
+general_JJ paresis_NN
+neurosyphilis_NNS
+dementia_NN
+primary_JJ degenerative_JJ dementia_NN alzheimer_NN type_NN
+presenile_JJ onset_NN
+delusion_NNS
+primary_JJ degenerative_JJ dementia_NN alzheimer_NN type_NN
+senile_RB onset_NN
+delusion_NNS
+multi-infarct_JJ dementia_NN
+sedative_NN
+hypnotic_JJ anxiolytic_JJ -_HYPH induced_VBN persisting_VBG dementia_NN
+parkinson_NN -_HYPH dementia_NN complex_NN guam_NN
+primary_JJ degenerative_JJ dementia_NN alzheimer_NN type_NN
+presenile_JJ onset_NN
+delirium_NN
+primary_JJ degenerative_JJ dementia_NN alzheimer_NN type_NN
+senile_RB onset_NN
+uncomplicated_JJ
+multi-infarct_JJ dementia_NN
+uncomplicated_JJ
+childhood_NN disintegrative_JJ disorder_NN
+dementia_NN paralytica_NN juvenilis_NN
+subcortical_JJ leukoencephalopathy_NN
+kohlschutter_NN 's_POS syndrome_NN
+psychoactive_JJ substance_NN -_HYPH induced_VBN organic_JJ dementia_NN
+family_NN history_NN :_: senile_RB dementia_NN
+history_NN dementia_NN
+dementia_NN test_NN
+ten_CD item_NN dementia_NN test_NN
+thirty_CD -_HYPH seven_CD item_NN dementia_NN test_NN
+uncomplicated_JJ senile_RB dementia_NN
+uncomplicated_JJ presenile_JJ dementia_NN
+presenile_JJ dementia_NN delirium_NN
+presenile_JJ dementia_NN paranoia_NN
+presenile_JJ dementia_NN depression_NN
+senile_RB dementia_NN depressive_JJ paranoid_JJ feature_NNS
+senile_RB dementia_NN paranoia_NN
+senile_RB dementia_NN depression_NN
+senile_RB dementia_NN delirium_NN
+uncomplicated_JJ arteriosclerotic_JJ dementia_NN
+arteriosclerotic_JJ dementia_NN delirium_NN
+arteriosclerotic_JJ dementia_NN paranoia_NN
+arteriosclerotic_JJ dementia_NN depression_NN
+drug_NN -_HYPH induced_VBN dementia_NN
+dementia_NN associated_VBN another_DT disease_NN
+language_NN disorder_NN dementia_NN
+amyotrophic_JJ lateral_JJ sclerosis_NN dementia_NN
+frontotemporal_JJ dementia_NN
+post-traumatic_JJ dementia_NN
+punch_NN drunk_JJ syndrome_NN
+vascular_JJ dementia_NN acute_JJ onset_NN
+subcortical_JJ vascular_JJ dementia_NN
+mixed_JJ cortical_JJ subcortical_JJ vascular_JJ dementia_NN
+semantic_JJ dementia_NN
+patchy_JJ dementia_NN
+epileptic_JJ dementia_NN
+arizona_NN battery_NN communication_NN disorder_NNS dementia_NN
+blessed_JJ dementia_NN rating_NN scale_NN
+clinical_JJ dementia_NN rating_NN scale_NN
+kendrick_NNP battery_NN detection_NN dementia_NN elderly_JJ
+dementia_NN frontal_JJ lobe_NN type_NN
+cerebral_JJ degeneration_NN presenting_VBG primarily_RB dementia_NN
+senile_RB dementia_NN lewy_JJ body_NN type_NN
+senile_RB dementia_NN delusion_NN
+senile_RB dementia_NN psychosis_NN
+diffuse_JJ lewy_NN body_NN disease_NN
+dementia_NN management_NN
+dementia_NN management_NN :_: bathing_NN
+global_JJ deterioration_NN scale_NN finding_VBG assessment_NN primary_JJ degenerative_JJ dementia_NN
+jakob_NN -_HYPH creutzfeldt_NN disease_NN
+primary_JJ degenerative_JJ dementia_NN alzheimer_NN type_NN
+presenile_JJ onset_NN
+primary_JJ degenerative_JJ dementia_NN alzheimer_NN type_NN
+senile_RB onset_NN
+dementia_NN associated_VBN acquired_VBN immunodeficiency_NN syndrome_NN
+organic_JJ dementia_NN associated_VBN acquired_VBN immunodeficiency_NN syndrome_NN
+presenile_JJ dementia_NN associated_VBN acquired_VBN immunodeficiency_NN syndrome_NN
+dementia_NN associated_VBN parkinson_NN 's_POS disease_NN
+dementia_NN due_IN creutzfeldt_NN jakob_NN disease_NN
+family_NN history_NN dementia_NN
+family_NN history_NN presenile_JJ dementia_NN
+vascular_JJ dementia_NN
+dementia_NN due_IN huntington_NNP chorea_NN
+dementia_NN due_IN rett_NN 's_POS syndrome_NN
+mixed_JJ dementia_NN
+primary_JJ degenerative_JJ dementia_NN
+assessment_NN dementia_NN
+dementia_NN alzheimer_NN type_NN behavioral_JJ disturbance_NN
+dementia_NN behavioral_JJ disturbance_NN
+dementia_NN due_IN pick_NN 's_POS disease_NN
+dementia_NN due_IN parkinson_NN 's_POS disease_NN
+dementia_NN due_IN alzheimer_NN 's_POS disease_NN
+risk_NN dementia_NN
+dementia_NN associated_VBN multiple_JJ sclerosis_NN
+dementia_NN associated_VBN cerebral_JJ lipidosis_NN
+dementia_NN associated_VBN normal_JJ pressure_NN hydrocephalus_NN
+post-traumatic_JJ dementia_NN behavioral_JJ change_NN
+dementia_NN associated_VBN viral_JJ encephalitis_NN
+dementia_NN associated_VBN neurosyphilis_NN
+dementia_NN associated_VBN cerebral_JJ anoxia_NN
+dementia_NN remission_NN
+primary_JJ degenerative_JJ dementia_NN alzheimer_NN type_NN
+presenile_JJ onset_NN remission_NN
+primary_JJ degenerative_JJ dementia_NN alzheimer_NN type_NN
+senile_RB onset_NN remission_NN
+vascular_JJ dementia_NN remission_NN
+altered_JJ behavior_NN dementia_NN due_IN huntington_NNP chorea_NN
+presenile_JJ dementia_NN delusion_NNS
+lewy_JJ body_NN dementia_NN behavioral_JJ disturbance_NN
+dementia_NN due_IN multiple_JJ sclerosis_NN altered_JJ behavior_NN
+depressed_JJ mood_NN alzheimer_NN 's_POS disease_NN
+antipsychotic_JJ drug_NN therapy_NN dementia_NN
+assessment_NN psychotic_JJ behavioral_JJ symptom_NNS dementia_NN
+frontotemporal_JJ dementia_NN
+polycystic_JJ lipomembranous_JJ osteodysplasia_NN sclerosing_VBG leukoencephalopathy_NN
+inclusion_NN body_NN myopathy_NN early_JJ -_HYPH onset_NN paget_NN disease_NN frontotemporal_JJ dementia_NN
+familial_JJ encephalopathy_NN neuroserpin_JJ inclusion_NN body_NNS
+presenile_JJ dementia_NN co-occurrent_NN human_JJ immunodeficiency_NN virus_NN infection_NN
+vascular_JJ dementia_NN behavioral_JJ disturbance_NN
+epileptic_JJ dementia_NN behavioral_JJ disturbance_NN
+dementia_NN co-occurrent_NN human_JJ immunodeficiency_NN virus_NN infection_NN
+dementia_NN leaflet_NN given_VBN
+assessment_NN using_VBG revised_VBN kendrick_NN battery_NN detection_NN dementia_NN elderly_JJ
+parkinsonism_NN co-occurrent_NN dementia_NN guadeloupe_NN
+arizona_NN battery_NN communication_NN disorder_NNS dementia_NN score_NN (_-LRB- observable_JJ entity_NN )_-RRB-
+pain_NN assessment_NN advanced_JJ dementia_NN scale_NN
+multi-infarct_JJ dementia_NN due_IN atherosclerosis_NN
+revised_VBN kendrick_NN battery_NN detection_NN dementia_NN elderly_JJ score_NN
+right_JJ temporal_JJ atrophy_NN variant_NN frontotemporal_JJ dementia_NN
+assessment_NN using_VBG arizona_NN battery_NN communication_NN disorder_NNS dementia_NN
+behavioral_JJ variant_NN frontotemporal_JJ dementia_NN
+revised_VBN kendrick_NN battery_NN detection_NN dementia_NN elderly_JJ
+assessment_NN using_VBG clinical_JJ dementia_NN rating_NN
+acute_JJ stress_NN disorder_NN
+acute_JJ panic_NN state_NN due_IN acute_JJ stress_NN reaction_NN
+acute_JJ fugue_NN state_NN due_IN acute_JJ stress_NN reaction_NN
+acute_JJ stupor_NN state_NN due_IN acute_JJ stress_NN reaction_NN
+acute_JJ post-trauma_JJ stress_NN state_NN
+acute_JJ posttraumatic_JJ stress_NN disorder_NN following_VBG military_JJ combat_NN
+acute_JJ situational_JJ disturbance_NN
+shell_NN shock_NN
+combat_NN fatigue_NN
+acute_JJ panic_NN state_NN due_IN acute_JJ stress_NN reaction_NN
+acute_JJ fugue_NN state_NN due_IN acute_JJ stress_NN reaction_NN
+acute_JJ stupor_NN state_NN due_IN acute_JJ stress_NN reaction_NN
+stress_NN reaction_NN causing_VBG mixed_JJ disturbance_NN emotion_NN conduct_NN
+perception_NN hysteria_NN
+anxiety_NN hysteria_NN
+dissociative_JJ disorder_NN
+dissociative_JJ convulsion_NNS
+globus_NNP abdominalis_NNP
+dissociative_JJ motor_NN disorder_NN
+dissociative_JJ trance_NN
+dissociative_JJ possession_NN disorder_NN
+dissociative_JJ stupor_NN
+couvade_NN
+dissociative_JJ confusion_NN
+multiple_JJ personality_NN disorder_NN
+compensation_NN neurosis_NN
+recurrent_JJ conversion_NN disorder_NN
+psychogenic_JJ fugue_NN
+depersonalization_NN disorder_NN
+hysterical_JJ deafness_NN
+ganser_NNP syndrome_NN
+psychogenic_JJ amnesia_NN
+hysterical_JJ blindness_NN
+acute_JJ hysterical_JJ psychosis_NN
+hysterical_JJ cataplexy_NN
+sleep_NN -_HYPH related_VBN dissociative_JJ disorder_NN
+dissociative_JJ disorder_NN remission_NN
+nightmare_NNS associated_VBN chronic_JJ post-traumatic_JJ stress_NN disorder_NN
+stress_NN overload_NN
+physiological_JJ stress_NN
+panic_NN disorder_NN agoraphobia_NN
+severe_JJ agoraphobic_JJ avoidance_NN
+panic_NN disorder_NN agoraphobia_NN panic_NN attack_NNS
+bipolar_JJ disorder_NN
+bipolar_JJ ii_CD disorder_NN
+bipolar_JJ 1_CD
+bipolar_JJ disorder_NN
+bipolar_JJ
+bipolar_JJ disorder_NN 2_CD
+bipolar_JJ disorder_NN
+bipolar_JJ 2_CD
+bipolar_JJ ii_CD
+bipolar_JJ affective_JJ disorder_NN
+unspecified_JJ
+bipolar_JJ affective_JJ disorder_NNS
+bipolar_JJ affective_JJ disorder_NN
+current_JJ episode_NN severe_JJ depression_NN psychotic_JJ symptom_NNS
+bipolar_JJ affective_JJ disorder_NN
+current_JJ episode_NN severe_JJ depression_NN without_IN psychotic_JJ symptom_NNS
+bipolar_JJ affective_JJ disorder_NN
+currently_RB remission_NN
+bipolar_JJ affective_JJ disorder_NN
+current_JJ episode_NN mixed_VBN
+bipolar_JJ affective_JJ disorder_NN
+current_JJ episode_NN manic_JJ without_IN psychotic_JJ symptom_NNS
+bipolar_JJ affective_JJ disorder_NN
+current_JJ episode_NN hypomanic_JJ
+bipolar_JJ affective_JJ disorder_NN
+current_JJ episode_NN mild_JJ moderate_JJ depression_NN
+bipolar_JJ affective_JJ disorder_NN
+current_JJ episode_NN manic_JJ psychotic_JJ symptom_NNS
+organic_JJ mood_NN disorder_NNS
+manic_JJ episode_NN
+bipolar_JJ affective_JJ disorder_NN
+recurrent_JJ depressive_JJ disorder_NN
+cyclothymia_NN ._. affective_JJ disorder_NNS
+bullying_NN
+verbal_JJ aggression_NN
+physical_JJ aggression_NN
+temper_NN problem_NN
+outburst_NNS anger_NN
+intimidation_NN
+display_NNS aggression_NN
+reinforced_VBN aggression_NN
+isolated_VBN explosive_JJ outburst_NN
+intermittent_JJ explosive_JJ outburst_NN
+hostile_JJ behavior_NN
+destructive_JJ behavior_NN
+aggressive_JJ outburst_NN
+fear_NN -_HYPH related_VBN aggression_NN
+dominance_NN aggression_NN
+violent_JJ act_NNS towards_IN others_NNS
+stress_NN due_IN family_NN tension_NN
+inducible_JJ ischemia_NN manifest_NN stress_NN test_NN post_NN myocardial_JJ infarction_NN
+chronic_JJ post-traumatic_JJ stress_NN disorder_NN following_VBG military_JJ combat_NN
+acute_JJ posttraumatic_JJ stress_NN disorder_NN following_VBG military_JJ combat_NN
+emotional_JJ stress_NN
+chronic_JJ stress_NN disorder_NN
+life_NNS alone_RB
+widowed_VBN
+posttraumatic_JJ stress_NN disorder_NN
+posttraumatic_JJ stress_NN disorder_NN delayed_VBN onset_NN
+complex_JJ posttraumatic_JJ stress_NN disorder_NN
+delayed_VBN posttraumatic_JJ stress_NN disorder_NN following_VBG military_JJ combat_NN
+acute_JJ posttraumatic_JJ stress_NN disorder_NN following_VBG military_JJ combat_NN
+brief_JJ psychotic_JJ disorder_NN
+delusional_JJ disorder_NN
+schizophrenia_NN
+schizophrenic_JJ
+sadness_NN
+severe_JJ depressive_JJ episode_NN without_IN psychotic_JJ symptom_NNS
+post-traumatic_JJ stress_NN disorder_NN
+enduring_VBG personality_NN change_NN catastrophic_JJ experience_NN
+egodystonic_JJ sexual_JJ orientation_NN
+sexual_JJ maturation_NN disorder_NN
+sexual_JJ relationship_NN disorder_NN
+reaction_NN severe_JJ stress_NN
+depressive_JJ episode_NN
+adjustment_NN disorder_NNS
+grief_NN
+symptom_NNS sign_NNS concerning_VBG food_NN fluid_NN intake_NN
+insufficient_JJ intake_NN food_NN water_NN due_IN self_NN -_HYPH neglect_NN
+schizotypal_JJ disorder_NN
+depressive_JJ conduct_NN disorder_NN
+schizoaffective_JJ disorder_NNS
+emotionally_RB unstable_JJ personality_NN disorder_NN
+enduring_VBG personality_NN change_NN psychiatric_JJ illness_NN
+bipolar_JJ affective_JJ disorder_NN
+organic_JJ mood_NN affective_JJ disorder_NNS
+hypomania_NN
+recurrent_JJ depressive_JJ disorder_NN
+persistent_JJ mood_NN affective_JJ disorder_NN
+unspecified_JJ mood_NN affective_JJ disorder_NN
+cyclothymia_NN
+dysthymia_NN
+separation_NN anxiety_NN disorder_NN
+mixed_JJ disorder_NNS conduct_NN emotion_NNS
+conduct_NN disorder_NNS
+dissocial_JJ personality_NN disorder_NN
+gender_NN identity_NN disorder_NN
+dual_RB -_HYPH role_NN transvestism_NN
+sexual_JJ maturation_NN disorder_NN
+sexual_JJ relationship_NN disorder_NN
+childhood_NN emotional_JJ disorder_NNS
+anankastic_JJ personality_NN disorder_NN
+obsessive_JJ -_HYPH compulsive_JJ disorder_NN
+depersonalization_NN -_HYPH derealization_NN syndrome_NN
+predominantly_RB obsessional_JJ thought_NNS rumination_NNS
+acute_JJ transient_JJ psychotic_JJ disorder_NN
+reaction_NN severe_JJ stress_NN
+acute_JJ stress_NN reaction_NN
+dissocial_JJ personality_NN disorder_NN
+dissociative_JJ disorder_NN
+depressive_JJ conduct_NN disorder_NN
+enduring_VBG personality_NN change_NN catastrophic_JJ experience_NN
+emotionally_RB unstable_JJ personality_NN disorder_NN
+oppositional_JJ defiant_JJ disorder_NN
+socialized_VBN conduct_NN disorder_NN
+unsocialized_JJ conduct_NN disorder_NN
+conduct_NN disorder_NN confined_VBN family_NN context_NN
+mixed_JJ disorder_NNS conduct_NN emotion_NNS
+poisoning_NN
+somatoform_JJ disorder_NN
+stress_NN incontinence_NN
+urinary_JJ incontinence_NN
+special_JJ epileptic_JJ syndrome_NN
+fetal_JJ stress_NN
+enduring_VBG personality_NN change_NNS
+removal_NN home_NN childhood_NN
+conversion_NN disorder_NN
+dissociative_JJ disorder_NN
+fetal_JJ death_NN
+miscarriage_NN
+baby_NN died_VBD
+emotional_JJ shock_NN
+postconcussional_JJ syndrome_NN
+acute_JJ stress_NN reaction_NN
+post-traumatic_JJ stress_NN disorder_NN
+reaction_NN severe_JJ stress_NN
+tic_JJ disorder_NNS
+dependent_JJ personality_NN disorder_NN
+extreme_JJ poverty_NN
+disruption_NN family_NN separation_NN divorce_NN
+personal_JJ history_NN psychoactive_JJ substance_NN abuse_NN
+alcohol_NN abuse_NN counselling_NN surveillance_NN
+family_NN history_NN alcohol_NN abuse_NN
+acquired_VBN aphasia_NN epilepsy_NN
+landau_NN -_HYPH kleffner_NN
+expressive_JJ language_NN disorder_NN
+atypical_JJ autism_NN
+childhood_NN autism_NN
+childhood_NN disintegrative_JJ disorder_NN
+pervasive_JJ developmental_JJ disorder_NN
+elective_JJ mutism_NN
+receptive_JJ language_NN disorder_NN
+asperger_NNP syndrome_NN
+pica_NN infancy_NN childhood_NN
+pervasive_JJ developmental_JJ disorder_NN
+bipolar_JJ affective_JJ disorder_NN
+manic_JJ episode_NN
+recurrent_JJ depressive_JJ disorder_NN
+cyclothymia_NN
+developmental_JJ disorder_NN speech_NN language_NN
+specific_JJ speech_NN articulation_NN disorder_NN
+stuttering_VBG
+stammering_VBG
+specific_JJ reading_VBG disorder_NN
+psychotic_JJ disorder_NN
+psychotic_JJ disorder_NN symptom_NNS schizophrenia_NN
+delirium_NN
+delusional_JJ disorder_NN
+senile_RB
+counselling_VBG related_VBN sexual_JJ behaviour_NN orientation_NN
+gender_NN identity_NN disorder_NN
+psychological_JJ behavioral_JJ disorder_NNS associated_VBN sexual_JJ development_NN orientation_NN
+egodystonic_JJ sexual_JJ orientation_NN
+sexual_JJ maturation_NN disorder_NN
+sexual_JJ relationship_NN disorder_NN
+counselling_VBG related_VBN patient_NN 's_POS sexual_JJ behavior_NN orientation_NN
+counselling_VBG related_VBN combined_JJ concern_NNS regarding_VBG sexual_JJ attitude_NN
+behavior_NN orientation_NN
+assault_NN
+assault_NN blunt_JJ object_NN
+assault_NN bodily_JJ force_NN
+dementia_NN pick_NN disease_NN
+dbt_NN
+borderline_NN personality_NN
+borderline_NN personality_NN disorder_NN
+dermatology_NN
+depressive_JJ conduct_NN disorder_NN
+schizoid_JJ personality_NN disorder_NN
+sexual_JJ aversion_NN
+lack_NN sexual_JJ enjoyment_NN
+attempted_VBN suicide_NN
+homicide_NN -_HYPH suicide_NN
+murder_NN -_HYPH suicide_NN
+feel_VB hopeless_JJ
+worthless_JJ
+agitated_JJ
+socially_RB isolated_VBN lonely_JJ
+experience_NN stressful_JJ life_NN event_NN
+loss_NN loved_VBN one_CD
+military_JJ service_NN
+breakup_NN
+financial_JJ problem_NNS
+legal_JJ problem_NNS
+access_NN firearm_NNS home_NN
+underlying_VBG psychiatric_JJ disorder_NN
+major_JJ depression_NN
+post-traumatic_JJ stress_NN disorder_NN bipolar_JJ disorder_NN
+pain_NN death_NN
+wish_NN dead_JJ
+wish_NN fall_VB asleep_JJ
+wake_VB
+live_VB anymore_RB
+alive_JJ anymore_RB
+wish_VBP dead_JJ
+wish_NN could_MD go_VB sleep_NN
+non-specific_JJ thought_NNS
+want_VB end_VB life_NN
+commit_VB suicide_NN
+thought_NN killing_VBG
+intent_JJ skill_NN oneself_NN
+thought_NN kill_VB
+plan_NN assessment_NN period_NN
+thought_NNS killing_VBG
+suicidal_JJ ideation_NN method_NNS
+planned_VBN suicidal_JJ ideation_NN
+endorses_VBZ thought_NNS suicide_NN
+thought_NN least_RBS one_CD method_NN assessment_NN period_NN
+thought_NN method_NN kill_VB self_NN specific_JJ plan_NN
+worked_VBD plan_NN suicide_NN
+place_NN suicide_NN
+thought_VBN taking_VBG overdose_NN never_RB made_VBD specific_JJ plan_NN
+would_MD actually_RB
+would_MD never_RB go_VB
+active_JJ suicidal_JJ thought_NNS
+active_JJ suicidal_JJ ideation_NN
+suicidal_JJ thought_NNS act_VB thought_NNS
+thought_NNS definitely_RB anything_NN
+intent_NN act_VB thought_NNS
+active_JJ suicidal_JJ ideation_NN
+specific_JJ plan_NN
+specific_JJ intent_NN
+thought_NNS killing_VBG detail_NNS
+full_JJ plan_NN
+’_'' worked_VBD
+intent_NN carry_VB
+detail_NNS kill_VB
+intend_VBP carry_VB plan_NN suicide_NN
+get_VB attention_NN
+get_VB reaction_NN
+get_VB revenge_NN
+end_VB pain_NN
+stop_VB pain_NN
+’_'' bear_VBP pain_NN
+could_MD live_VB life_NN pain_NN
+’_'' tired_JJ suffering_NN
+’_'' tired_JJ pain_NN
+suicidal_JJ
+suicidal_JJ behavior_NN
+threatening_VBG suicide_NN
+previous_JJ known_VBN suicide_NN attempt_NN
+first_RB known_VBN suicide_NN attempt_NN
+concerned_JJ friend_NNS
+concerned_JJ family_NN
+concerned_JJ teacher_NN
+concerned_JJ authority_NN
+concerned_JJ coworkers_NNS
+history_NN attempted_VBN suicide_NN
+anti-suicide_JJ psychotherapy_NN
+suicide_NN intent_JJ score_NN scale_NN
+suicide_NN intent_JJ score_NN subscale_NN
+suicide_NN high_JJ risk_NN
+pierce_NN suicide_NN intent_NN scale_NN score_NN
+suicide_NN prevention_NN
+cutting_NN
+self_NN -_HYPH harm_NN
+emotionally_RB unstable_JJ personality_NN disorder_NN
+severe_JJ depressive_JJ episode_NN psychotic_JJ symptom_NNS
+post-schizophrenic_JJ depression_NN
+personal_JJ history_NN self_NN -_HYPH harm_NN
+intentional_JJ self_NN -_HYPH harm_NN
+intentional_JJ production_NN feigning_VBG symptom_NNS disability_NNS
+factitious_JJ disorder_NN
+intentional_JJ self_NN -_HYPH harm_NN sharp_JJ object_NN
+intentional_JJ self_NN -_HYPH harm_NN blunt_JJ object_NN
+intentional_JJ self_NN -_HYPH harm_NN steam_NN
+hot_JJ vapour_NNS hot_JJ object_NNS
+intentional_JJ self_NN -_HYPH harm_NN unspecified_JJ firearm_NN discharge_NN
+intentional_JJ self_NN -_HYPH harm_NN explosive_JJ material_NN
+sequela_NNS intentional_JJ self_NN -_HYPH harm_NN
+assault_NN
+intentional_JJ self_NN -_HYPH harm_NN crashing_VBG motor_NN vehicle_NN
+exposure_NN inanimate_JJ mechanical_JJ force_NNS
+intentional_JJ self_NN -_HYPH harm_NN smoke_NN fire_NN flame_NNS
+intentional_JJ self_NN -_HYPH harm_NN handgun_JJ discharge_NN
+intentional_JJ self_NN -_HYPH harm_NN rifle_NN
+intentional_JJ self_NN -_HYPH harm_NN shotgun_NN
+fall_VBZ
+transport_NN accident_NNS
+intentional_JJ self_NN -_HYPH harm_NN jumping_VBG lying_VBG moving_VBG object_NN
+intentional_JJ self_NN -_HYPH harm_NN jumping_VBG high_JJ place_NN
+intentional_JJ self_NN -_HYPH harm_NN hanging_VBG
+intentional_JJ self_NN -_HYPH harm_NN strangulation_NN suffocation_NN
+intentional_JJ self_NN -_HYPH harm_NN drowning_VBG submersion_NN
+intentional_JJ self_NN -_HYPH harm_NN
+accidental_JJ poisoning_NN exposure_NN noxious_JJ substance_NNS
+potentially_RB self_NN -_HYPH injurious_JJ act_NN
+wish_NN die_VB result_NN act_NN
+method_NN kill_VB
+intent_NN desire_NN die_VB associated_VBN act_NN
+may_MD may_MD involving_VBG injury_NN harm_NN
+potential_JJ injury_NN harm_NN
+gun_NN mouth_NN
+gun_NN mouth_NN
+incomplete_JJ attempt_NN
+highly_RB lethal_JJ act_NN
+inferred_VBN suicide_NN
+harm_NN
+could_MD died_VBN
+self_NN -_HYPH injurious_JJ
+self_NN -_HYPH harm_NN relieve_VB stress_NN
+self_NN -_HYPH harm_NN feel_VB better_RBR
+self_NN -_HYPH harm_NN get_VB sympathy_NN
+self_NN -_HYPH harm_NN get_VB something_NN happen_VB
+interrupted_JJ attempt_NN
+pill_NNS hand_NN
+stopped_VBD ingesting_VBG
+pointed_JJ gun_NN
+gun_NN taken_VBN away_RB
+prevented_VBN pulling_VBG trigger_NN
+’_'' pull_VBP trigger_NN
+person_NN poised_VBN jump_VB
+grabbed_VBD ledge_NN
+taken_VBN ledge_NN
+noose_NN around_IN neck_NN
+someone_NN stopped_VBD
+something_NN stopped_VBD
+taking_VBG step_NNS
+self_NN -_HYPH destructive_JJ
+stopped_VBD
+suicidal_JJ act_NN
+suicidal_JJ preparation_NN
+imminent_JJ plan_NNS
+tonight_NN night_NN
+today_NN day_NN
+preparatory_JJ act_NN
+buying_VBG pill_NNS
+bought_VBN pill_NNS
+purchasing_VBG gun_NN
+purchased_VBD gun_NN
+giving_VBG thing_NNS away_RB
+gave_VBD thing_NNS away_RB
+writing_VBG suicide_NN note_NN
+wrote_VBD note_NN
+writing_VBG note_NN
+collecting_VBG pill_NNS
+collected_VBN pill_NNS
+getting_VBG gun_NN
+got_VBD gun_NN
+giving_VBG valuable_NNS away_RB
+assault_NN pushing_VBG placing_VBG victim_NN moving_VBG object_NN
+hit_NN
+struck_VBN
+kicked_VBN
+twisted_JJ
+bitten_VBN
+scratched_VBN
+pesticide_NNS
+poisoned_VBN
+assault_NN corrosive_JJ substance_NN
+assault_NN drug_NNS
+’_'' going_VBG kill_VB
+wish_VBP dead_JJ
+wish_VBP ’_'' born_VBN
+take_VB life_NN
+buying_VBG gun_NN
+bought_VBD gun_NN
+stockpiling_NN pill_NNS
+withdraw_VB social_JJ contact_NN
+want_VB left_VBN alone_RB
+mood_NN swing_NNS
+emotionally_RB high_JJ one_CD day_NN deeply_RB discouraged_VBD next_JJ
+preoccupied_VBN death_NN
+preoccupied_VBN dying_VBG
+preoccupied_VBN violence_NN
+feel_VB trapped_VBN
+feel_VB hopeless_JJ
+increasing_VBG use_NN alcohol_NN drug_NNS
+changing_VBG normal_JJ routine_NN
+loss_NN appetite_NN
+poor_JJ sleeping_NN pattern_NNS
+risky_JJ thing_NNS
+self_NN -_HYPH destructive_JJ
+using_VBG drug_NNS
+driving_VBG recklessly_RB
+getting_VBG affair_NNS order_NN
+saying_VBG goodbye_UH
+said_VBD goodbye_NN ._. personality_NN change_NNS
+severely_RB anxious_JJ
+severely_RB agitated_JJ
+planning_VBG suicide_NN
+suicidal_JJ intent_NN
+access_NN planned_VBN mean_NNS suicide_NN
+suicidal_JJ deliberate_JJ poisoning_NN
+suicide_NN self_NN -_HYPH administered_VBN drug_NN
+suicide_NN incarcerated_VBN
+assisted_VBN suicide_NN
+suicide_NN attempt_NN adequate_JJ mean_NNS
+suicide_NN attempt_NN inadequate_JJ mean_NNS
+suicide_NN suspected_VBN
+suicide_NN multiple_JJ mean_NNS
+self_NN -_HYPH inflicted_VBN poisoning_NN solid_JJ liquid_JJ substance_NNS
+suicide_NN self_NN -_HYPH inflicted_VBN poisoning_NN analgesic_NNS
+antipyretic_NNS anti-rheumatics_NNS
+suicide_NN self_NN -_HYPH inflicted_VBN poisoning_NN barbiturate_NNS
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN amylobarbitone_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN barbitone_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN butabarbitone_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN pentabarbitone_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN phenobarbitone_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN quinalbarbitone_NN
+suicide_NN self_NN -_HYPH inflicted_VBN poisoning_NN gas_NNS domestic_JJ use_NN
+suicide_NN self_NN -_HYPH inflicted_VBN poisoning_NN gas_NN distributed_VBN pipeline_NN
+suicide_NN self_NN -_HYPH inflicted_VBN poisoning_NN liquefied_VBN petroleum_NN gas_NN distributed_VBN mobile_JJ container_NNS
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN hanging_VBG
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN strangulation_NN suffocation_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN drowning_VBG
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN firearm_NNS explosive_NNS
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN handgun_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN shotgun_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN hunting_VBG rifle_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN military_JJ firearm_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN cutting_VBG stabbing_VBG
+suicide_NN self_NN -_HYPH injury_NN jumping_VBG height_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN jumping_VBG residential_JJ premise_NNS
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN jumping_VBG natural_JJ site_NNS
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN jumping_VBG lying_VBG moving_VBG object_NN
+suicide_NN self_NN -_HYPH injury_NN burning_VBG fire_NN
+suicide_NN self_NN -_HYPH injury_NN scalding_VBG
+suicide_NN self_NN -_HYPH injury_NN exposure_NN cold_JJ
+suicide_NN self_NN -_HYPH injury_NN electric_JJ current_JJ
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN crashing_VBG motor_NN vehicle_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN crashing_VBG aircraft_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN caustic_JJ substance_NNS
+suicide_NN self_NN -_HYPH injury_NN jumping_VBG high_JJ man_NN -_HYPH made_VBN structure_NN
+suicide_NN self_NN -_HYPH injury_NN jumping_VBG high_JJ building_NN
+suicide_NN self_NN -_HYPH injury_NN jumping_VBG bridge_NN
+suicide_NN self_NN -_HYPH injury_NN jumping_VBG high_JJ natural_JJ feature_NN
+suicide_NN self_NN -_HYPH injury_NN jumping_VBG cliff_NN
+suicide_NN self_NN -_HYPH injury_NN associated_VBN moving_VBG vehicle_NNS
+suicide_NN self_NN -_HYPH injury_NN placing_VBG self_NN path_NN moving_VBG vehicle_NN
+suicide_NN self_NN -_HYPH injury_NN placing_VBG self_NN path_NN moving_VBG motor_NN vehicle_NN
+suicide_NN self_NN -_HYPH injury_NN placing_VBG self_NN path_NN moving_VBG railway_NN vehicle_NN
+suicide_NN self_NN -_HYPH injury_NN igniting_VBG gasoline_NN soaked_VBN clothing_NN concept_NN
+suicide_NN self_NN -_HYPH injury_NN arson_NN
+suicide_NN self_NN -_HYPH inflicted_VBN injury_NN suffocation_NN plastic_JJ bag_NN
+attempt_NN suicide_NN car_NN exhaust_NN
+drug_NN overdose_NN
+attempt_NN circumstance_NNS
+patient_JJ suicide_NN cared_VBN healthcare_NN facility_NN
+psychotic_JJ disorder_NN
+psychotic_JJ episode_NN
+isolation_NN
+feel_VBP alone_JJ
+feel_VBP worthless_JJ
+nothing_NN help_VBZ
+kill_VB
+’_'' nothing_NN left_JJ
+rat_NN poison_NN
+draino_NN
+institutionalized_VBN
+5150_CD
+5250_CD
+involuntary_JJ hold_NN
+psychiatric_JJ hospitalization_NN
+attempt_NN physical_JJ damage_NN
+surface_NN scratch_NNS
+lethargic_JJ speech_NN
+first_RB -_HYPH degree_NN burn_NNS
+mild_JJ bleeding_NN
+major_JJ bleeding_NN
+bled_VBD
+sprain_NNS
+conscious_JJ sleepy_JJ
+somewhat_RB responsive_JJ
+second_RB -_HYPH degree_NN burn_NNS
+bleeding_NN major_JJ vessel_NN
+comatose_JJ reflex_NNS intact_JJ
+comatose_JJ
+third_JJ -_HYPH degree_NN burn_NNS
+extensive_JJ blood_NN loss_NN
+major_JJ fracture_NNS
+medical_JJ hospitalization_NN
+intensive_JJ care_NN
+comatose_JJ without_IN reflex_NNS
+unstable_JJ vital_JJ sign_NNS
+major_JJ damage_NN
+lethality_NN actual_JJ attempt_NN
+letha_NNP attempt_NN
+potential_JJ serious_JJ lethality_NN
+put_VBN gun_NN mouth_NN pulled_VBD trigger_NN
+laying_VBG train_NN track_NNS
+alive_JJ arriving_VBG
+died_VBD hospital_NN
+died_VBD reaching_VBG hospital_NN
+ingesting_VBG pill_NNS
+took_VBD pill_NNS
+pulled_VBD trigger_NN
+swallowed_VBD
+jumped_VBD
+noose_NN around_IN neck_NN
+jumping_NN
+incomplete_JJ attempt_NN
+attempt_NN actual_JJ suicide_NN
+gunshot_NN head_VB
+jumped_VBD window_NN
+jumped_VBD roof_NN
+made_VBD suicide_NN attempt_NN
+shooting_NN
+set_VBN fire_NN
+blew_VBD
+went_VBD cold_NN
+went_VBD freezer_NN
+jumped_VBD bridge_NN
+jumped_VBD roof_NN
+bag_NN around_IN head_NN
+belt_NN around_IN neck_NN
