@@ -1991,7 +1991,7 @@ specific_JJ plan_NN
 specific_JJ intent_NN
 thought_NNS killing_VBG detail_NNS
 full_JJ plan_NN
-’_'' worked_VBD
+ï¿½_'' worked_VBD
 intent_NN carry_VB
 detail_NNS kill_VB
 intend_VBP carry_VB plan_NN suicide_NN
@@ -2000,10 +2000,10 @@ get_VB reaction_NN
 get_VB revenge_NN
 end_VB pain_NN
 stop_VB pain_NN
-’_'' bear_VBP pain_NN
+ï¿½_'' bear_VBP pain_NN
 could_MD live_VB life_NN pain_NN
-’_'' tired_JJ suffering_NN
-’_'' tired_JJ pain_NN
+ï¿½_'' tired_JJ suffering_NN
+ï¿½_'' tired_JJ pain_NN
 suicidal_JJ
 suicidal_JJ behavior_NN
 threatening_VBG suicide_NN
@@ -2077,7 +2077,7 @@ stopped_VBD ingesting_VBG
 pointed_JJ gun_NN
 gun_NN taken_VBN away_RB
 prevented_VBN pulling_VBG trigger_NN
-’_'' pull_VBP trigger_NN
+ï¿½_'' pull_VBP trigger_NN
 person_NN poised_VBN jump_VB
 grabbed_VBD ledge_NN
 taken_VBN ledge_NN
@@ -2118,9 +2118,9 @@ pesticide_NNS
 poisoned_VBN
 assault_NN corrosive_JJ substance_NN
 assault_NN drug_NNS
-’_'' going_VBG kill_VB
+ï¿½_'' going_VBG kill_VB
 wish_VBP dead_JJ
-wish_VBP ’_'' born_VBN
+wish_VBP ï¿½_'' born_VBN
 take_VB life_NN
 buying_VBG gun_NN
 bought_VBD gun_NN
@@ -2214,7 +2214,7 @@ feel_VBP alone_JJ
 feel_VBP worthless_JJ
 nothing_NN help_VBZ
 kill_VB
-’_'' nothing_NN left_JJ
+ï¿½_'' nothing_NN left_JJ
 rat_NN poison_NN
 draino_NN
 institutionalized_VBN
